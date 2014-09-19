@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+   <mods:titleInfo>
+      <mods:title>Myrmekologische Miszellen.</mods:title>
+   </mods:titleInfo>
+   <mods:name type="personal">
+				  <mods:role>
+				     <mods:roleTerm>Author</mods:roleTerm>
+				  </mods:role>
+				  <mods:namePart>Karavajev, V.</mods:namePart>
+				</mods:name>
+   <mods:typeOfResource>text</mods:typeOfResource>
+   <mods:relatedItem type="host">
+      <mods:titleInfo>
+         <mods:title>Yezhegodnik Zoologicheskogo Muzeya Akademii Nauk SSSR</mods:title>
+      </mods:titleInfo>
+      <mods:part>
+         <mods:detail type="volume">
+            <mods:number>27</mods:number>
+         </mods:detail>
+         <mods:extent unit="page">
+            <mods:start>104</mods:start>
+            <mods:end>112</mods:end>
+         </mods:extent>
+         <mods:date>1927</mods:date>
+      </mods:part>
+   </mods:relatedItem>
+   <mods:subject>
+      <mods:topic>Solenopsis latro subsp. aurata</mods:topic>
+      <mods:topic>Formica (Serviformica) rufibarbis var. clara</mods:topic>
+      <mods:topic>Crematogaster auberti subsp. laestrigon var. atlantis</mods:topic>
+      <mods:topic>Crematogaster auberti subsp. laestrigon var. diminuta</mods:topic>
+      <mods:topic>Lasius (Dendrolasius) fuliginosus var. orientalis</mods:topic>
+      <mods:topic>Tetramorium caespitum var. plana</mods:topic>
+      <mods:topic>Ponera coarctata</mods:topic>
+      <mods:topic>Formica (Serviformica) fusca var. japonica</mods:topic>
+      <mods:topic>Crematogaster auberti subsp. laestrigon var. cretica</mods:topic>
+      <mods:topic>Monomorium creticum</mods:topic>
+      <mods:topic>Tetramorium caespitum var. brevinodis</mods:topic>
+      <mods:topic>Solenopsis lou</mods:topic>
+      <mods:topic>Crematogaster auberti subsp. laestrigon var. striaticeps</mods:topic>
+      <mods:topic>Crematogaster sordidula var. flachi</mods:topic>
+      <mods:topic>Crematogaster auberti subsp. laestrigon var. maura</mods:topic>
+      <mods:topic>Leptothorax (Mychothorax) acervorum var. nigrescens</mods:topic>
+   </mods:subject>
+   <mods:identifier type="HNS-PUB">4516</mods:identifier>
+</mods:mods>

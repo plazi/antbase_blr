@@ -1,0 +1,1711 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+   <mods:titleInfo>
+      <mods:title>Hymenoptera, Fam. Formicidae, subfam. Myrmicinae.</mods:title>
+   </mods:titleInfo>
+   <mods:name type="personal">
+				  <mods:role>
+				     <mods:roleTerm>Author</mods:roleTerm>
+				  </mods:role>
+				  <mods:namePart>Emery, C.</mods:namePart>
+				</mods:name>
+   <mods:typeOfResource>text</mods:typeOfResource>
+   <mods:relatedItem type="host">
+      <mods:titleInfo>
+         <mods:title>Genera Insectorum</mods:title>
+      </mods:titleInfo>
+      <mods:part>
+         <mods:detail type="volume">
+            <mods:number>174C</mods:number>
+         </mods:detail>
+         <mods:extent unit="page">
+            <mods:start>207</mods:start>
+            <mods:end>397</mods:end>
+         </mods:extent>
+         <mods:date>1924</mods:date>
+      </mods:part>
+   </mods:relatedItem>
+   <mods:subject>
+      <mods:topic>Pheidologetini</mods:topic>
+      <mods:topic>Erebomyrma</mods:topic>
+      <mods:topic>Lophomyrmex birmanus</mods:topic>
+      <mods:topic>Pheidologeton diversus</mods:topic>
+      <mods:topic>Pheidologeton dentiviris</mods:topic>
+      <mods:topic>Aneleus diabolus</mods:topic>
+      <mods:topic>Aneleus perpusillus</mods:topic>
+      <mods:topic>Aneleus pygmaeus var. bugnioni</mods:topic>
+      <mods:topic>Lecanomyrma</mods:topic>
+      <mods:topic>Oligomyrmex africanus</mods:topic>
+      <mods:topic>Oligomyrmex wroughtoni</mods:topic>
+      <mods:topic>Oligomyrmex bengalensis</mods:topic>
+      <mods:topic>Oligomyrmex beta</mods:topic>
+      <mods:topic>Oligomyrmex bouvardi</mods:topic>
+      <mods:topic>Oligomyrmex corniger var. parvicornis</mods:topic>
+      <mods:topic>Oligomyrmex corniger subsp. sodalis</mods:topic>
+      <mods:topic>Oligomyrmex jacobsoni</mods:topic>
+      <mods:topic>Oligomyrmex oertzeni var. aeolia</mods:topic>
+      <mods:topic>Oligomyrmex overbecki</mods:topic>
+      <mods:topic>Oligomyrmex subreptor</mods:topic>
+      <mods:topic>Oligomyrmex pachycerus</mods:topic>
+      <mods:topic>Carebara castanea</mods:topic>
+      <mods:topic>Carebara ampla</mods:topic>
+      <mods:topic>Meranoplini</mods:topic>
+      <mods:topic>Calyptomyrmex</mods:topic>
+      <mods:topic>Meranoplus mayri subsp. nanior</mods:topic>
+      <mods:topic>Meranoplus bicolor</mods:topic>
+      <mods:topic>Meranoplus castaneus subsp. hammaceros</mods:topic>
+      <mods:topic>Meranoplus vestigator</mods:topic>
+      <mods:topic>Myrmecina</mods:topic>
+      <mods:topic>Myrmecina graminicola</mods:topic>
+      <mods:topic>Myrmecina graminicola var. grouvellei</mods:topic>
+      <mods:topic>Pristomyrmex brevispinosus subsp. sulcata</mods:topic>
+      <mods:topic>Pristomyrmex parumpunctatus</mods:topic>
+      <mods:topic>Pristomyrmex quadridens</mods:topic>
+      <mods:topic>Acanthomyrmex ferox</mods:topic>
+      <mods:topic>Dacryon kitschneri</mods:topic>
+      <mods:topic>Podomyrma adelaidae var. obscurior</mods:topic>
+      <mods:topic>Podomyrma elongata subsp. grossestriata</mods:topic>
+      <mods:topic>Podomyrma laeviceps subsp. gracilis var. nugenti</mods:topic>
+      <mods:topic>Podomyrma muckeli</mods:topic>
+      <mods:topic>Podomyrma obscura</mods:topic>
+      <mods:topic>Podomyrma ruficeps</mods:topic>
+      <mods:topic>Atopomyrmex mocquerysi var. curvispina</mods:topic>
+      <mods:topic>Myrmoxenus</mods:topic>
+      <mods:topic>Apsychomyrmex</mods:topic>
+      <mods:topic>Macromischa laevissima</mods:topic>
+      <mods:topic>Macromischa sallei subsp. haytiana</mods:topic>
+      <mods:topic>Macromischa splendens</mods:topic>
+      <mods:topic>Macromischa squamifera</mods:topic>
+      <mods:topic>Temnothorax</mods:topic>
+      <mods:topic>Dichothorax</mods:topic>
+      <mods:topic>Leptothorax grisoni</mods:topic>
+      <mods:topic>Leptothorax madecassus</mods:topic>
+      <mods:topic>Leptothorax echinatinodis subsp. spininodis</mods:topic>
+      <mods:topic>Leptothorax rottenbergi subsp. amnibalis var. colorata</mods:topic>
+      <mods:topic>Leptothorax angustulus subsp. algirica var. brunnea</mods:topic>
+      <mods:topic>Leptothorax aveti</mods:topic>
+      <mods:topic>Leptothorax bulgaricus subsp. aeolia</mods:topic>
+      <mods:topic>Leptothorax bulgaricus subsp. satunini</mods:topic>
+      <mods:topic>Leptothorax exilis</mods:topic>
+      <mods:topic>Leptothorax exilis var. darii</mods:topic>
+      <mods:topic>Leptothorax exilis var. specularis</mods:topic>
+      <mods:topic>Leptothorax luteus</mods:topic>
+      <mods:topic>Leptothorax niger var. grouvellei</mods:topic>
+      <mods:topic>Leptothorax nylanderi var. parvula</mods:topic>
+      <mods:topic>Leptothorax nylanderi subsp. tebessae var. atomus</mods:topic>
+      <mods:topic>Leptothorax tuberum subsp. tuberum var. nigriceps</mods:topic>
+      <mods:topic>Leptothorax tuberum subsp. interrupta var. tubero-interrupta</mods:topic>
+      <mods:topic>Leptothorax tuberum subsp. tyndalei</mods:topic>
+      <mods:topic>Leptothorax tuberum subsp. unifasciata var. unifasciato-nigricipoides</mods:topic>
+      <mods:topic>Leptothorax neomexicanus</mods:topic>
+      <mods:topic>Leptothorax nitens</mods:topic>
+      <mods:topic>Leptothorax nitens subsp. occidentalis</mods:topic>
+      <mods:topic>Leptothorax obturator</mods:topic>
+      <mods:topic>Leptothorax flavicornis</mods:topic>
+      <mods:topic>Leptothorax longispinosus</mods:topic>
+      <mods:topic>Leptothorax rugatulus var. mediorufa</mods:topic>
+      <mods:topic>Leptothorax antigoni</mods:topic>
+      <mods:topic>Leptothorax foreli</mods:topic>
+      <mods:topic>Leptothorax rogeri</mods:topic>
+      <mods:topic>Leptothorax acervorum</mods:topic>
+      <mods:topic>Leptothorax acervorum var. nigrescens</mods:topic>
+      <mods:topic>Leptothorax hirticornis var. sibirica</mods:topic>
+      <mods:topic>Leptothorax muscorum var. gredleri</mods:topic>
+      <mods:topic>Leptothorax muscorum var. scamni</mods:topic>
+      <mods:topic>Formicoxenus nitidulus var. picea</mods:topic>
+      <mods:topic>Rogeria blanda</mods:topic>
+      <mods:topic>Adelomyrmex biroi</mods:topic>
+      <mods:topic>Ocymyrmicini</mods:topic>
+      <mods:topic>Tetramoriini</mods:topic>
+      <mods:topic>Triglyphothrix auropunctata var. bulawayensis</mods:topic>
+      <mods:topic>Triglyphothrix marthae</mods:topic>
+      <mods:topic>Triglyphothrix decamera</mods:topic>
+      <mods:topic>Tetramorium caespitum var. calida</mods:topic>
+      <mods:topic>Tetramorium caespitum var. chefketi</mods:topic>
+      <mods:topic>Tetramorium guineense var. erecta</mods:topic>
+      <mods:topic>Tetramorium caespitum subsp. biskrensis</mods:topic>
+      <mods:topic>Tetramorium caespitum subsp. ferox var. diomedaea</mods:topic>
+      <mods:topic>Tetramorium caespitum subsp. judas</mods:topic>
+      <mods:topic>Tetramorium caespitum subsp. punica var. sahlbergi</mods:topic>
+      <mods:topic>Tetramorium guineense</mods:topic>
+      <mods:topic>Tetramorium bequaerti subsp. bulawayensis</mods:topic>
+      <mods:topic>Tetramorium gladstonei</mods:topic>
+      <mods:topic>Tetramorium gladstonei var. seposita</mods:topic>
+      <mods:topic>Tetramorium humile</mods:topic>
+      <mods:topic>Tetramorium joffrei</mods:topic>
+      <mods:topic>Tetramorium oculatum</mods:topic>
+      <mods:topic>Tetramorium popovici</mods:topic>
+      <mods:topic>Tetramorium quadrispinosum</mods:topic>
+      <mods:topic>Tetramorium quadrispinosum subsp. montana</mods:topic>
+      <mods:topic>Tetramorium sericeiventre subsp. continentis</mods:topic>
+      <mods:topic>Tetramorium sericeiventre subsp. continentis var. platonis</mods:topic>
+      <mods:topic>Tetramorium setuliferum var. triptolemus</mods:topic>
+      <mods:topic>Tetramorium solidum var. grootensis</mods:topic>
+      <mods:topic>Tetramorium squaminode subsp. do var. mus</mods:topic>
+      <mods:topic>Tetramorium subcoecum</mods:topic>
+      <mods:topic>Tetramorium titus</mods:topic>
+      <mods:topic>Tetramorium mixtum</mods:topic>
+      <mods:topic>Tetramorium pacificum subsp. scabra</mods:topic>
+      <mods:topic>Tetramorium pacificum subsp. subscabra</mods:topic>
+      <mods:topic>Strongylognathus afer</mods:topic>
+      <mods:topic>Xiphomyrmex occidentalis</mods:topic>
+      <mods:topic>Xiphomyrmex weitzeckeri</mods:topic>
+      <mods:topic>Xiphomyrmex belgaensis</mods:topic>
+      <mods:topic>Xiphomyrmex viehmeyeri</mods:topic>
+      <mods:topic>Xiphomyrmex spinosus subsp. wheeleri</mods:topic>
+      <mods:topic>Decamorium decem</mods:topic>
+      <mods:topic>Rhoptromyrmex opacus var. esta</mods:topic>
+      <mods:topic>Rhoptromyrmex wroughtoni subsp. sumatrensis</mods:topic>
+      <mods:topic>Tetramyrma braunsi</mods:topic>
+      <mods:topic>Tetramyrma simoni</mods:topic>
+      <mods:topic>Cataulacus bequaerti</mods:topic>
+      <mods:topic>Cataulacus coriaceus</mods:topic>
+      <mods:topic>Cataulacus erinaceus var. crassispina</mods:topic>
+      <mods:topic>Cataulacus guineensis subsp. sulcinodis</mods:topic>
+      <mods:topic>Cataulacus intrudens subsp. intermedia</mods:topic>
+      <mods:topic>Cataulacus kohli subsp. brazzavillensis</mods:topic>
+      <mods:topic>Cataulacus rugosus</mods:topic>
+      <mods:topic>Cataulacus voeltzkowi</mods:topic>
+      <mods:topic>Cataulacus regularis</mods:topic>
+      <mods:topic>Cataulacus hispidus</mods:topic>
+      <mods:topic>Cataulacus horridus</mods:topic>
+      <mods:topic>Cataulacus muticus</mods:topic>
+      <mods:topic>Otomyrmex</mods:topic>
+      <mods:topic>Zacryptocerus</mods:topic>
+      <mods:topic>Procryptocerus carbonarius</mods:topic>
+      <mods:topic>Procryptocerus carbonarius var. laeviventris</mods:topic>
+      <mods:topic>Procryptocerus goeldii</mods:topic>
+      <mods:topic>Procryptocerus paleatus</mods:topic>
+      <mods:topic>Procryptocerus striatus subsp. regularis</mods:topic>
+      <mods:topic>Procryptocerus striatus subsp. regularis var. concentrica</mods:topic>
+      <mods:topic>Procryptocerus striatus subsp. scabriuscula</mods:topic>
+      <mods:topic>Meranoplus puncticeps</mods:topic>
+      <mods:topic>Zacryptocerus clypeatus</mods:topic>
+      <mods:topic>Paracryptocerus</mods:topic>
+      <mods:topic>Cryptocerus cordiae</mods:topic>
+      <mods:topic>Cryptocerus cordatus</mods:topic>
+      <mods:topic>Cryptocerus cristatus</mods:topic>
+      <mods:topic>Cryptocerus depressus var. sorocabensis</mods:topic>
+      <mods:topic>Cryptocerus argentatus</mods:topic>
+      <mods:topic>Cryptocerus angustus</mods:topic>
+      <mods:topic>Cryptocerus curvistriatus</mods:topic>
+      <mods:topic>Cryptocerus jheringi</mods:topic>
+      <mods:topic>Cryptocerus foliaceus</mods:topic>
+      <mods:topic>Cryptocerus grandinosus subsp. magdalenensis</mods:topic>
+      <mods:topic>Stegomyrmex</mods:topic>
+      <mods:topic>Basiceros</mods:topic>
+      <mods:topic>Rhopalothrix</mods:topic>
+      <mods:topic>Acanthognathus ocellatus</mods:topic>
+      <mods:topic>Strumigenys arnoldi</mods:topic>
+      <mods:topic>Strumigenys rufobrunnea</mods:topic>
+      <mods:topic>Strumigenys koningsbergeri</mods:topic>
+      <mods:topic>Strumigenys lyroessa</mods:topic>
+      <mods:topic>Strumigenys moczï¿½ryi</mods:topic>
+      <mods:topic>Strumigenys signeae</mods:topic>
+      <mods:topic>Strumigenys louisianae</mods:topic>
+      <mods:topic>Strumigenys baudueri var. tenuipilis</mods:topic>
+      <mods:topic>Strumigenys membranifera</mods:topic>
+      <mods:topic>Strumigenys membranifera subsp. simillima</mods:topic>
+      <mods:topic>Strumigenys dohertyi</mods:topic>
+      <mods:topic>Strumigenys alberti var. intermedia</mods:topic>
+      <mods:topic>Strumigenys clypeata var. pilinasis</mods:topic>
+      <mods:topic>Epitritus eurycerus</mods:topic>
+      <mods:topic>Epitritus wheeleri</mods:topic>
+      <mods:topic>Rhopalothrix balzani</mods:topic>
+      <mods:topic>Rhopalothrix godmani</mods:topic>
+      <mods:topic>Rhopalothrix biroi</mods:topic>
+      <mods:topic>Epopostruma foliacea</mods:topic>
+      <mods:topic>Proatta</mods:topic>
+      <mods:topic>Cyphomyrmex</mods:topic>
+      <mods:topic>Myrmicocrypta squamosa var. uncinata</mods:topic>
+      <mods:topic>Apterostigma mayri var. discrepans</mods:topic>
+      <mods:topic>Sericomyrmex burchelli</mods:topic>
+      <mods:topic>Sericomyrmex mayri</mods:topic>
+      <mods:topic>Cyphomyrmex bigibbosus</mods:topic>
+      <mods:topic>Cyphomyrmex morschi</mods:topic>
+      <mods:topic>Cyphomyrmex rimosus subsp. salvini</mods:topic>
+      <mods:topic>Cyphomyrmex emeryi var. argentina</mods:topic>
+      <mods:topic>Cyphomyrmex emeryi var. fortis</mods:topic>
+      <mods:topic>Cyphomyrmex cornetzi</mods:topic>
+      <mods:topic>Cyphomyrmex humilis</mods:topic>
+      <mods:topic>Cyphomyrmex septentrionalis subsp. obscurior</mods:topic>
+      <mods:topic>Acromyrmex emilii</mods:topic>
+      <mods:topic>Acromyrmex lundi</mods:topic>
+      <mods:topic>Acromyrmex lundi var. parallela</mods:topic>
+      <mods:topic>Acromyrmex mesonotalis var. crassispina</mods:topic>
+      <mods:topic>Acromyrmex subterraneus</mods:topic>
+      <mods:topic>Acromyrmex silvestrii</mods:topic>
+      <mods:topic>Atta columbica var. lutea</mods:topic>
+      <mods:topic>Atta laevigata subsp. vollenweideri var. saltensis</mods:topic>
+      <mods:topic>Myrmica agilis</mods:topic>
+      <mods:topic>Myrmica fuscipennis</mods:topic>
+      <mods:topic>Myrmica humilis</mods:topic>
+      <mods:topic>Myrmica moesta</mods:topic>
+      <mods:topic>Myrmica scabrosa</mods:topic>
+      <mods:topic>Aphaenogaster pallescens</mods:topic>
+      <mods:topic>Myrmicini</mods:topic>
+      <mods:topic>Paedalgus</mods:topic>
+      <mods:topic>Lophomyrmex quadrispinosus var. taprobanae</mods:topic>
+      <mods:topic>Pheidologeton australis var. mjÃ¶bergi</mods:topic>
+      <mods:topic>Pheidologeton diversus var. taprobanae</mods:topic>
+      <mods:topic>Pheidologeton yanoi</mods:topic>
+      <mods:topic>Aneleus politus</mods:topic>
+      <mods:topic>Aneleus pygmaeus</mods:topic>
+      <mods:topic>Aneleus pygmaeus var. simalurensis</mods:topic>
+      <mods:topic>Aneleus sarasinorum</mods:topic>
+      <mods:topic>Aneleus butteli</mods:topic>
+      <mods:topic>Oligomyrmex semilaevis</mods:topic>
+      <mods:topic>Oligomyrmex alpha</mods:topic>
+      <mods:topic>Oligomyrmex mjÃ¶bergi</mods:topic>
+      <mods:topic>Oligomyrmex taprobanae</mods:topic>
+      <mods:topic>Carebara lignata</mods:topic>
+      <mods:topic>Carebara vidua</mods:topic>
+      <mods:topic>Paedalgus infimus</mods:topic>
+      <mods:topic>Mayriella abstinens</mods:topic>
+      <mods:topic>Calyptomyrmex arnoldi</mods:topic>
+      <mods:topic>Calyptomyrmex schraderi</mods:topic>
+      <mods:topic>Calyptomyrmex stellatus</mods:topic>
+      <mods:topic>Calyptomyrmex cryptocerus</mods:topic>
+      <mods:topic>Calyptomyrmex pusillus</mods:topic>
+      <mods:topic>Promeranoplus rouxi</mods:topic>
+      <mods:topic>Meranoplus peringueyi</mods:topic>
+      <mods:topic>Meranoplus simoni subsp. suturalis</mods:topic>
+      <mods:topic>Meranoplus diversus</mods:topic>
+      <mods:topic>Meranoplus mjÃ¶bergi</mods:topic>
+      <mods:topic>Acanthomyrmex</mods:topic>
+      <mods:topic>Pristomyrmex eduardi</mods:topic>
+      <mods:topic>Pristomyrmex quadridentatus var. queenslandensis</mods:topic>
+      <mods:topic>Dacryon omniparens</mods:topic>
+      <mods:topic>Podomyrma convergens</mods:topic>
+      <mods:topic>Podomyrma inermis</mods:topic>
+      <mods:topic>Podomyrma laeviceps</mods:topic>
+      <mods:topic>Podomyrma micans</mods:topic>
+      <mods:topic>Podomyrma ruficeps var. thoracica</mods:topic>
+      <mods:topic>Podomyrma ruficeps subsp. dohertyi</mods:topic>
+      <mods:topic>Podomyrma ruficeps subsp. pulcra</mods:topic>
+      <mods:topic>Atopula nodifera</mods:topic>
+      <mods:topic>Harpagoxenus</mods:topic>
+      <mods:topic>Macromischa isabellae</mods:topic>
+      <mods:topic>Macromischa pastinifera</mods:topic>
+      <mods:topic>Macromischa petiolata</mods:topic>
+      <mods:topic>Macromischa porphyritis</mods:topic>
+      <mods:topic>Macromischa salvini var. obscurior</mods:topic>
+      <mods:topic>Leptothorax latinodis</mods:topic>
+      <mods:topic>Leptothorax sikorai</mods:topic>
+      <mods:topic>Leptothorax echinatinodis</mods:topic>
+      <mods:topic>Leptothorax echinatinodis subsp. pungentinodis</mods:topic>
+      <mods:topic>Leptothorax bucheti var. tunetina</mods:topic>
+      <mods:topic>Leptothorax bugnioni</mods:topic>
+      <mods:topic>Leptothorax bugnioni var. marocana</mods:topic>
+      <mods:topic>Leptothorax rottenbergi var. jesus</mods:topic>
+      <mods:topic>Leptothorax rottenbergi var. sardoa</mods:topic>
+      <mods:topic>Leptothorax angustulus var. bordagei</mods:topic>
+      <mods:topic>Leptothorax angustulus subsp. trabuti</mods:topic>
+      <mods:topic>Leptothorax aveti var. pici</mods:topic>
+      <mods:topic>Leptothorax canescens</mods:topic>
+      <mods:topic>Leptothorax congruus var. spinosior</mods:topic>
+      <mods:topic>Leptothorax exilis var. dichroa</mods:topic>
+      <mods:topic>Leptothorax flavispinus subsp. santschii</mods:topic>
+      <mods:topic>Leptothorax flavispinus subsp. santschii var. amilcaris</mods:topic>
+      <mods:topic>Leptothorax laciniatus</mods:topic>
+      <mods:topic>Leptothorax nassonovi subsp. volgensis</mods:topic>
+      <mods:topic>Leptothorax rusticus</mods:topic>
+      <mods:topic>Leptothorax serviculus var. brauneri</mods:topic>
+      <mods:topic>Leptothorax tuberum subsp. affinis var. tubero-affinis</mods:topic>
+      <mods:topic>Leptothorax tuberum subsp. interrupta var. nitidiceps</mods:topic>
+      <mods:topic>Leptothorax tuberum subsp. spinosa var. nivalis</mods:topic>
+      <mods:topic>Leptothorax tuberum subsp. unifasciata var. taurica</mods:topic>
+      <mods:topic>Leptothorax rothneyi subsp. schurri</mods:topic>
+      <mods:topic>Leptothorax nevadensis</mods:topic>
+      <mods:topic>Leptothorax stollii</mods:topic>
+      <mods:topic>Leptothorax fortinodis var. melanotica</mods:topic>
+      <mods:topic>Leptothorax rugatulus var. cockerelli</mods:topic>
+      <mods:topic>Leptothorax pergandei</mods:topic>
+      <mods:topic>Leptothorax acervorum subsp. canadensis var. yankee</mods:topic>
+      <mods:topic>Leptothorax emersoni subsp. glacialis</mods:topic>
+      <mods:topic>Leptothorax muscorum var. septentrionalis</mods:topic>
+      <mods:topic>Myrmoxenus gordiagini</mods:topic>
+      <mods:topic>Formicoxenus nitidulus</mods:topic>
+      <mods:topic>Harpagoxenus sublaevis</mods:topic>
+      <mods:topic>Harpagoxenus sublaevis var. hirtula</mods:topic>
+      <mods:topic>Harpagoxenus americanus</mods:topic>
+      <mods:topic>Irogera</mods:topic>
+      <mods:topic>Rogeria foreli subsp. gaigei</mods:topic>
+      <mods:topic>Apsychomyrmex myops</mods:topic>
+      <mods:topic>Ocymyrmex robecchii</mods:topic>
+      <mods:topic>Triglyphothrix trimeni</mods:topic>
+      <mods:topic>Triglyphothrix walshi var. spuria</mods:topic>
+      <mods:topic>Tetramorium caespitum var. brevicornis</mods:topic>
+      <mods:topic>Tetramorium caespitum var. hispanica</mods:topic>
+      <mods:topic>Tetramorium caespitum subsp. punica var. depressa</mods:topic>
+      <mods:topic>Tetramorium caespitum subsp. semilaevis var. splendens</mods:topic>
+      <mods:topic>Tetramorium guineense subsp. cristata</mods:topic>
+      <mods:topic>Tetramorium simillimum var. poweri</mods:topic>
+      <mods:topic>Tetramorium simillimum subsp. bothae</mods:topic>
+      <mods:topic>Tetramorium simillimum subsp. delagoï¿½nsis</mods:topic>
+      <mods:topic>Tetramorium arnoldi</mods:topic>
+      <mods:topic>Tetramorium camerunense var. waelbroeki</mods:topic>
+      <mods:topic>Tetramorium coloreum</mods:topic>
+      <mods:topic>Tetramorium emeryi</mods:topic>
+      <mods:topic>Tetramorium gracile</mods:topic>
+      <mods:topic>Tetramorium longoi</mods:topic>
+      <mods:topic>Tetramorium microgyna</mods:topic>
+      <mods:topic>Tetramorium pusillum subsp. ghindana</mods:topic>
+      <mods:topic>Tetramorium quadridentatum</mods:topic>
+      <mods:topic>Tetramorium sericeiventre var. bipartita</mods:topic>
+      <mods:topic>Tetramorium sericeiventre subsp. femorata</mods:topic>
+      <mods:topic>Tetramorium setigerum subsp. quaerens</mods:topic>
+      <mods:topic>Tetramorium bicolor</mods:topic>
+      <mods:topic>Tetramorium christiei</mods:topic>
+      <mods:topic>Tetramorium magitae</mods:topic>
+      <mods:topic>Tetramorium transversarium</mods:topic>
+      <mods:topic>Tetramorium lucayanum</mods:topic>
+      <mods:topic>Strongylognathus huberi var. gallica</mods:topic>
+      <mods:topic>Strongylognathus huberi subsp. cecconii</mods:topic>
+      <mods:topic>Xiphomyrmex degener</mods:topic>
+      <mods:topic>Xiphomyrmex humbloti</mods:topic>
+      <mods:topic>Xiphomyrmex humbloti var. pembensis</mods:topic>
+      <mods:topic>Xiphomyrmex latreillei</mods:topic>
+      <mods:topic>Xiphomyrmex minusculus</mods:topic>
+      <mods:topic>Xiphomyrmex bismarcki</mods:topic>
+      <mods:topic>Xiphomyrmex costatus</mods:topic>
+      <mods:topic>Xiphomyrmex costatus subsp. deficiens</mods:topic>
+      <mods:topic>Xiphomyrmex pilosus</mods:topic>
+      <mods:topic>Xiphomyrmex smithi</mods:topic>
+      <mods:topic>Xiphomyrmex turneri</mods:topic>
+      <mods:topic>Acidomyrmex</mods:topic>
+      <mods:topic>Ochetomyrmex mayri</mods:topic>
+      <mods:topic>Cataulacus guineensis subsp. fernandensis</mods:topic>
+      <mods:topic>Cataulacus pygmaeus</mods:topic>
+      <mods:topic>Cataulacus tardus</mods:topic>
+      <mods:topic>Cataulacus porcatus</mods:topic>
+      <mods:topic>Cataulacus granulatus subsp. andamanensis</mods:topic>
+      <mods:topic>Cataulacus latissimus</mods:topic>
+      <mods:topic>Cataulacus latus</mods:topic>
+      <mods:topic>Cataulacus praetextus</mods:topic>
+      <mods:topic>Cataulacus praetextus var. sumatrensis</mods:topic>
+      <mods:topic>Procryptocerus belti</mods:topic>
+      <mods:topic>Procryptocerus hirsutus</mods:topic>
+      <mods:topic>Procryptocerus striatus subsp. regularis var. rotundiceps</mods:topic>
+      <mods:topic>Procryptocerus striatus subsp. schmalzi</mods:topic>
+      <mods:topic>Procryptocerus subpilosus subsp. attenuata</mods:topic>
+      <mods:topic>Cryptocerus minutus</mods:topic>
+      <mods:topic>Cryptocerus multispinus var. inca</mods:topic>
+      <mods:topic>Cryptocerus spinosus</mods:topic>
+      <mods:topic>Cryptocerus multispinosus subsp. biguttatus</mods:topic>
+      <mods:topic>Cryptocerus pavonii</mods:topic>
+      <mods:topic>Cryptocerus bimaculatus</mods:topic>
+      <mods:topic>Cryptocerus denticulatus var. variegata</mods:topic>
+      <mods:topic>Cryptocerus pilosus subsp. fiebrigi</mods:topic>
+      <mods:topic>Cryptocerus quadratus</mods:topic>
+      <mods:topic>Cryptocerus grandinosus</mods:topic>
+      <mods:topic>Cryptocerus grandinosus var. nevadensis</mods:topic>
+      <mods:topic>Cryptocerus incertus</mods:topic>
+      <mods:topic>Cryptocerus scutulatus</mods:topic>
+      <mods:topic>Cryptocerus varians subsp. marginata</mods:topic>
+      <mods:topic>Orectognathus mjÃ¶bergi</mods:topic>
+      <mods:topic>Strumigenys stygia</mods:topic>
+      <mods:topic>Strumigenys scotti</mods:topic>
+      <mods:topic>Strumigenys horvï¿½thi</mods:topic>
+      <mods:topic>Strumigenys juliae</mods:topic>
+      <mods:topic>Strumigenys bruchi</mods:topic>
+      <mods:topic>Strumigenys crassicornis</mods:topic>
+      <mods:topic>Strumigenys denticulata</mods:topic>
+      <mods:topic>Strumigenys eggersi</mods:topic>
+      <mods:topic>Strumigenys eggersi var. vincentensis</mods:topic>
+      <mods:topic>Strumigenys imitator</mods:topic>
+      <mods:topic>Strumigenys louisianae var. obscuriventris</mods:topic>
+      <mods:topic>Strumigenys rehi</mods:topic>
+      <mods:topic>Strumigenys rogeri</mods:topic>
+      <mods:topic>Strumigenys saliens var. procera</mods:topic>
+      <mods:topic>Strumigenys escherichi subsp. limbata</mods:topic>
+      <mods:topic>Strumigenys lujae</mods:topic>
+      <mods:topic>Strumigenys rothkirchi</mods:topic>
+      <mods:topic>Strumigenys transversa</mods:topic>
+      <mods:topic>Strumigenys inezae var. taipingensis</mods:topic>
+      <mods:topic>Strumigenys conspersa</mods:topic>
+      <mods:topic>Glamyromyrmex beebei</mods:topic>
+      <mods:topic>Epitritus clypeatus var. malesiana</mods:topic>
+      <mods:topic>Rhopalothrix batesi</mods:topic>
+      <mods:topic>Rhopalothrix simoni</mods:topic>
+      <mods:topic>Rhopalothrix truncata</mods:topic>
+      <mods:topic>Apterostigma</mods:topic>
+      <mods:topic>Mycocepurus</mods:topic>
+      <mods:topic>Pseudoatta</mods:topic>
+      <mods:topic>Mycocepurus smithi var. borinquenensis</mods:topic>
+      <mods:topic>Myrmicocrypta rudiscapus</mods:topic>
+      <mods:topic>Apterostigma pilosum</mods:topic>
+      <mods:topic>Sericomyrmex bruchi</mods:topic>
+      <mods:topic>Sericomyrmex lutzi</mods:topic>
+      <mods:topic>Sericomyrmex opacus var. mï¿½lleri</mods:topic>
+      <mods:topic>Mycetarotes</mods:topic>
+      <mods:topic>Cyphomyrmex conformis</mods:topic>
+      <mods:topic>Cyphomyrmex strigatus</mods:topic>
+      <mods:topic>Cyphomyrmex wheeleri</mods:topic>
+      <mods:topic>Cyphomyrmex lÃ¼derwaldti</mods:topic>
+      <mods:topic>Cyphomyrmex asper</mods:topic>
+      <mods:topic>Cyphomyrmex bugnioni</mods:topic>
+      <mods:topic>Cyphomyrmex septentrionalis subsp. septentrionalis</mods:topic>
+      <mods:topic>Acromyrmex lundi subsp. pubescens</mods:topic>
+      <mods:topic>Acromyrmex moelleri subsp. modesta</mods:topic>
+      <mods:topic>Acromyrmex octospinosus</mods:topic>
+      <mods:topic>Acromyrmex subterraneus var. depressoculis</mods:topic>
+      <mods:topic>Acromyrmex silvestrii subsp. bruchi</mods:topic>
+      <mods:topic>Atta insularis subsp. texana</mods:topic>
+      <mods:topic>Atta sexdens var. bisphaerica</mods:topic>
+      <mods:topic>Myrmica formosa</mods:topic>
+      <mods:topic>Myrmica irritans</mods:topic>
+      <mods:topic>Myrmica lineolata</mods:topic>
+      <mods:topic>Myrmica luctuosa</mods:topic>
+      <mods:topic>Myrmica montana</mods:topic>
+      <mods:topic>Myrmica polita</mods:topic>
+      <mods:topic>Myrmica (Diplorhoptrum) scabrata</mods:topic>
+      <mods:topic>Myrmica thoracica</mods:topic>
+      <mods:topic>Myrmica vexator</mods:topic>
+      <mods:topic>Formica omnivora</mods:topic>
+      <mods:topic>Tetramorium caespitum var. rhodia</mods:topic>
+      <mods:topic>Acromyrmex moelleri subsp. andicola</mods:topic>
+      <mods:topic>Carebara</mods:topic>
+      <mods:topic>Lophomyrmex quadrispinosus</mods:topic>
+      <mods:topic>Pheidologeton affinis</mods:topic>
+      <mods:topic>Pheidologeton affinis var. minor</mods:topic>
+      <mods:topic>Pheidologeton affinis var. spinosior</mods:topic>
+      <mods:topic>Pheidologeton affinis var. sumatrensis</mods:topic>
+      <mods:topic>Pheidologeton australis</mods:topic>
+      <mods:topic>Pheidologeton diversus subsp. standfussi</mods:topic>
+      <mods:topic>Aneleus perpusillus subsp. concedens</mods:topic>
+      <mods:topic>Oligomyrmex atomus</mods:topic>
+      <mods:topic>Oligomyrmex concinnus</mods:topic>
+      <mods:topic>Carebara bicarinata</mods:topic>
+      <mods:topic>Paedalgus escherichi</mods:topic>
+      <mods:topic>Calyptomyrmex beccarii var. glabrata</mods:topic>
+      <mods:topic>Meranoplus magrettii</mods:topic>
+      <mods:topic>Meranoplus mayri var. kiboshana</mods:topic>
+      <mods:topic>Meranoplus diversus subsp. duyfkeni</mods:topic>
+      <mods:topic>Meranoplus diversus subsp. unicolor</mods:topic>
+      <mods:topic>Meranoplus mars subsp. ajax</mods:topic>
+      <mods:topic>Lordomyrma</mods:topic>
+      <mods:topic>Myrmecina graminicola subsp. americana var. brevispinosa</mods:topic>
+      <mods:topic>Myrmecina butteli</mods:topic>
+      <mods:topic>Myrmecina pilicornis</mods:topic>
+      <mods:topic>Myrmecina striata</mods:topic>
+      <mods:topic>Myrmecina undulata</mods:topic>
+      <mods:topic>Pristomyrmex levigatus</mods:topic>
+      <mods:topic>Pristomyrmex trachylissa</mods:topic>
+      <mods:topic>Acanthomyrmex luciolae</mods:topic>
+      <mods:topic>Dacryon christae</mods:topic>
+      <mods:topic>Dacryon liber</mods:topic>
+      <mods:topic>Dacryon mjÃ¶bergi</mods:topic>
+      <mods:topic>Podomyrma micans subsp. sericeiventris</mods:topic>
+      <mods:topic>Podomyrma basalis</mods:topic>
+      <mods:topic>Podomyrma micans var. maculiventris</mods:topic>
+      <mods:topic>Lordomyrma cryptocera</mods:topic>
+      <mods:topic>Dilobocondyla borneensis</mods:topic>
+      <mods:topic>Dilobocondyla escherichi</mods:topic>
+      <mods:topic>Macromischa</mods:topic>
+      <mods:topic>Leptothorax</mods:topic>
+      <mods:topic>Epimyrma</mods:topic>
+      <mods:topic>Symmyrmica</mods:topic>
+      <mods:topic>Lachnomyrmex</mods:topic>
+      <mods:topic>Macromischa androsana</mods:topic>
+      <mods:topic>Macromischa flavidula</mods:topic>
+      <mods:topic>Macromischa poeyi</mods:topic>
+      <mods:topic>Macromischa subditiva</mods:topic>
+      <mods:topic>Leptothorax angulatus var. concolor</mods:topic>
+      <mods:topic>Leptothorax angulatus subsp. ilgi</mods:topic>
+      <mods:topic>Leptothorax jacobsoni</mods:topic>
+      <mods:topic>Leptothorax costatus</mods:topic>
+      <mods:topic>Leptothorax pulcher</mods:topic>
+      <mods:topic>Leptothorax vicinus</mods:topic>
+      <mods:topic>Leptothorax asper var. antoniensis</mods:topic>
+      <mods:topic>Leptothorax clavipilis</mods:topic>
+      <mods:topic>Leptothorax bugnioni subsp. pupseli</mods:topic>
+      <mods:topic>Leptothorax cabrerae subsp. producta</mods:topic>
+      <mods:topic>Leptothorax hesperius</mods:topic>
+      <mods:topic>Leptothorax rottenbergi</mods:topic>
+      <mods:topic>Leptothorax rottenbergi subsp. amnibalis</mods:topic>
+      <mods:topic>Leptothorax angustulus</mods:topic>
+      <mods:topic>Leptothorax clypeatus</mods:topic>
+      <mods:topic>Leptothorax congruus</mods:topic>
+      <mods:topic>Leptothorax cordieri var. rougeti</mods:topic>
+      <mods:topic>Leptothorax tuberum exilis var. ruficornis</mods:topic>
+      <mods:topic>Leptothorax laurae subsp. rosae</mods:topic>
+      <mods:topic>Leptothorax massiliensis</mods:topic>
+      <mods:topic>Leptothorax submuticus</mods:topic>
+      <mods:topic>Leptothorax tristis</mods:topic>
+      <mods:topic>Leptothorax tuberum subsp. tuberum var. melanocephala</mods:topic>
+      <mods:topic>Leptothorax tuberum subsp. affinis</mods:topic>
+      <mods:topic>Leptothorax tuberum subsp. alpina</mods:topic>
+      <mods:topic>Leptothorax tuberum subsp. kirillovi</mods:topic>
+      <mods:topic>Leptothorax rothneyi</mods:topic>
+      <mods:topic>Leptothorax furunculus</mods:topic>
+      <mods:topic>Leptothorax nevadensis subsp. rudis</mods:topic>
+      <mods:topic>Leptothorax texanus</mods:topic>
+      <mods:topic>Leptothorax bradleyi</mods:topic>
+      <mods:topic>Leptothorax curvispinosus</mods:topic>
+      <mods:topic>Leptothorax schaumi</mods:topic>
+      <mods:topic>Leptothorax acervorum subsp. canadensis var. calderoni</mods:topic>
+      <mods:topic>Leptothorax hirticornis</mods:topic>
+      <mods:topic>Epimyrma kraussei</mods:topic>
+      <mods:topic>Leptothorax chamberlini</mods:topic>
+      <mods:topic>Rogeria germaini</mods:topic>
+      <mods:topic>Ocymyrmex laticeps</mods:topic>
+      <mods:topic>Strongylognathus</mods:topic>
+      <mods:topic>Triglyphothrix microps</mods:topic>
+      <mods:topic>Triglyphothrix mucida</mods:topic>
+      <mods:topic>Triglyphothrix musculus</mods:topic>
+      <mods:topic>Tetramorium caespitum var. turcomanica</mods:topic>
+      <mods:topic>Tetramorium caespitum subsp. davidi</mods:topic>
+      <mods:topic>Tetramorium caespitum subsp. inermis</mods:topic>
+      <mods:topic>Tetramorium caespitum subsp. maura</mods:topic>
+      <mods:topic>Tetramorium caespitum subsp. nautarum</mods:topic>
+      <mods:topic>Tetramorium caespitum subsp. schultzei</mods:topic>
+      <mods:topic>Tetramorium simillimum var. opacior</mods:topic>
+      <mods:topic>Tetramorium simillimum subsp. denticulata</mods:topic>
+      <mods:topic>Tetramorium simillimum subsp. isipingensis var. dumezi</mods:topic>
+      <mods:topic>Tetramorium simillimum subsp. laevinodis</mods:topic>
+      <mods:topic>Tetramorium aculeatum var. major</mods:topic>
+      <mods:topic>Tetramorium aculeatum subsp. andrica</mods:topic>
+      <mods:topic>Tetramorium bequaerti</mods:topic>
+      <mods:topic>Tetramorium camerunense</mods:topic>
+      <mods:topic>Tetramorium capense</mods:topic>
+      <mods:topic>Tetramorium lobulicorne</mods:topic>
+      <mods:topic>Tetramorium meressei</mods:topic>
+      <mods:topic>Tetramorium pauper</mods:topic>
+      <mods:topic>Tetramorium pusillum</mods:topic>
+      <mods:topic>Tetramorium quadrispinosum subsp. elegans</mods:topic>
+      <mods:topic>Tetramorium quadrispinosum subsp. eudoxia</mods:topic>
+      <mods:topic>Tetramorium sericeiventre subsp. inversa var. defricta</mods:topic>
+      <mods:topic>Tetramorium simulator</mods:topic>
+      <mods:topic>Tetramorium solidum</mods:topic>
+      <mods:topic>Tetramorium curtulum</mods:topic>
+      <mods:topic>Tetramorium fergusoni</mods:topic>
+      <mods:topic>Tetramorium inglebyi</mods:topic>
+      <mods:topic>Tetramorium ornatum var. obscurior</mods:topic>
+      <mods:topic>Tetramorium pacificum</mods:topic>
+      <mods:topic>Tetramorium punctiventre</mods:topic>
+      <mods:topic>Tetramorium scrobiferum</mods:topic>
+      <mods:topic>Strongylognathus destefanii</mods:topic>
+      <mods:topic>Strongylognathus huberi subsp. ruzskyi</mods:topic>
+      <mods:topic>Xiphomyrmex bessoni var. orientalis</mods:topic>
+      <mods:topic>Rhoptromyrmex opacus</mods:topic>
+      <mods:topic>Rhoptromyrmex wroughtoni subsp. rothneyi</mods:topic>
+      <mods:topic>Lundella reitteri</mods:topic>
+      <mods:topic>Ochetomyrmex semipolitus</mods:topic>
+      <mods:topic>Wasmannia auropunctata var. australis</mods:topic>
+      <mods:topic>Wasmannia lutzi</mods:topic>
+      <mods:topic>Cataulacus foveolatus</mods:topic>
+      <mods:topic>Cataulacus lobatus</mods:topic>
+      <mods:topic>Cataulacus micans subsp. durbanensis</mods:topic>
+      <mods:topic>Cataulacus otii subsp. fricatidorsum</mods:topic>
+      <mods:topic>Cataulacus pygmaeus subsp. brevisetosus</mods:topic>
+      <mods:topic>Cataulacus pygmaeus subsp. lujae var. gilviventris</mods:topic>
+      <mods:topic>Cataulacus wissmanni subsp. linearis</mods:topic>
+      <mods:topic>Cataulacus ebrardi</mods:topic>
+      <mods:topic>Cataulacus johannae</mods:topic>
+      <mods:topic>Cataulacus granulatus</mods:topic>
+      <mods:topic>Cataulacus setosus</mods:topic>
+      <mods:topic>Cataulacus oberthÃ¼ri</mods:topic>
+      <mods:topic>Procryptocerus sampaioi</mods:topic>
+      <mods:topic>Procryptocerus striatus subsp. latitans var. mï¿½lleri</mods:topic>
+      <mods:topic>Cephalotes alfaroi</mods:topic>
+      <mods:topic>Zacryptocerus membranaceus</mods:topic>
+      <mods:topic>Cryptocerus angulatus</mods:topic>
+      <mods:topic>Cryptocerus duckei</mods:topic>
+      <mods:topic>Cryptocerus exiguus</mods:topic>
+      <mods:topic>Cryptocerus volxemi</mods:topic>
+      <mods:topic>Cryptocerus fenestralis</mods:topic>
+      <mods:topic>Cryptocerus umbraculatus</mods:topic>
+      <mods:topic>Cryptocerus adolphi</mods:topic>
+      <mods:topic>Cryptocerus bruchi</mods:topic>
+      <mods:topic>Cryptocerus convexus</mods:topic>
+      <mods:topic>Cryptocerus crenaticeps</mods:topic>
+      <mods:topic>Cryptocerus denticulatus</mods:topic>
+      <mods:topic>Cryptocerus setulifer</mods:topic>
+      <mods:topic>Blepharidatta</mods:topic>
+      <mods:topic>Acanthognathus</mods:topic>
+      <mods:topic>Epitritus</mods:topic>
+      <mods:topic>Stegomyrmex connectens</mods:topic>
+      <mods:topic>Microdaceton exornatum</mods:topic>
+      <mods:topic>Strumigenys ludovici</mods:topic>
+      <mods:topic>Strumigenys emdeni</mods:topic>
+      <mods:topic>Strumigenys frivaldszkyi</mods:topic>
+      <mods:topic>Strumigenys godeffroyi var. butteli</mods:topic>
+      <mods:topic>Strumigenys guttulata</mods:topic>
+      <mods:topic>Strumigenys leae</mods:topic>
+      <mods:topic>Strumigenys szalayi var. australis</mods:topic>
+      <mods:topic>Strumigenys cordovensis</mods:topic>
+      <mods:topic>Strumigenys godmani</mods:topic>
+      <mods:topic>Strumigenys hindenburgi</mods:topic>
+      <mods:topic>Strumigenys louisianae var. longicornis</mods:topic>
+      <mods:topic>Strumigenys silvestrii</mods:topic>
+      <mods:topic>Strumigenys baudueri</mods:topic>
+      <mods:topic>Strumigenys alluaudi</mods:topic>
+      <mods:topic>Strumigenys alluaudi subsp. nigeriensis</mods:topic>
+      <mods:topic>Strumigenys escherichi</mods:topic>
+      <mods:topic>Strumigenys escherichi subsp. cognata</mods:topic>
+      <mods:topic>Strumigenys capitata</mods:topic>
+      <mods:topic>Codiomyrmex</mods:topic>
+      <mods:topic>Epitritus emmae</mods:topic>
+      <mods:topic>Basiceros convexiceps</mods:topic>
+      <mods:topic>Epopostruma froggatti</mods:topic>
+      <mods:topic>Mycocepurus goeldii</mods:topic>
+      <mods:topic>Myrmicocrypta subnitida</mods:topic>
+      <mods:topic>Myrmicocrypta triangulata</mods:topic>
+      <mods:topic>Myrmicocrypta triangulata var. peruviana</mods:topic>
+      <mods:topic>Cyphomyrmex cornetzi var. naranjo</mods:topic>
+      <mods:topic>Cyphomyrmex septentrionalis</mods:topic>
+      <mods:topic>Pseudoatta argentina</mods:topic>
+      <mods:topic>Acromyrmex aspersus var. rugosa</mods:topic>
+      <mods:topic>Acromyrmex aspersus var. santschii</mods:topic>
+      <mods:topic>Acromyrmex lundi subsp. boliviensis</mods:topic>
+      <mods:topic>Acromyrmex lundi subsp. pubescens var. chacoensis</mods:topic>
+      <mods:topic>Acromyrmex mesonotalis var. fuhrmanni</mods:topic>
+      <mods:topic>Acromyrmex moelleri subsp. panamensis var. angustata</mods:topic>
+      <mods:topic>Acromyrmex muticinodus</mods:topic>
+      <mods:topic>Acromyrmex striatus</mods:topic>
+      <mods:topic>Atta cephalotes var. integrior</mods:topic>
+      <mods:topic>Atta laevigata subsp. vollenweideri</mods:topic>
+      <mods:topic>Myrmica bidentata</mods:topic>
+      <mods:topic>Myrmica breviceps</mods:topic>
+      <mods:topic>Myrmica erythrothorax</mods:topic>
+      <mods:topic>Myrmica jucunda</mods:topic>
+      <mods:topic>Myrmica laevissima</mods:topic>
+      <mods:topic>Myrmica paleata</mods:topic>
+      <mods:topic>Myrmica parallela</mods:topic>
+      <mods:topic>Myrmica pertinax</mods:topic>
+      <mods:topic>Aphaenogaster debilis</mods:topic>
+      <mods:topic>Cerapachys oculata</mods:topic>
+      <mods:topic>Formica maxillosa</mods:topic>
+      <mods:topic>Leptothorax corticalis var. korbi</mods:topic>
+      <mods:topic>Aneleus</mods:topic>
+      <mods:topic>Pheidologeton</mods:topic>
+      <mods:topic>Lophomyrmex bedoti</mods:topic>
+      <mods:topic>Pheidologeton nanus</mods:topic>
+      <mods:topic>Pheidologeton obscurus</mods:topic>
+      <mods:topic>Pheidologeton solitarius</mods:topic>
+      <mods:topic>Aneleus ceylonensis</mods:topic>
+      <mods:topic>Aneleus perpusillus subsp. arnoldi</mods:topic>
+      <mods:topic>Aneleus perpusillus subsp. spinosa</mods:topic>
+      <mods:topic>Aneleus silvestrii</mods:topic>
+      <mods:topic>Oligomyrmex nossindambo</mods:topic>
+      <mods:topic>Oligomyrmex vorax</mods:topic>
+      <mods:topic>Oligomyrmex angolensis</mods:topic>
+      <mods:topic>Oligomyrmex angolensis subsp. congolensis</mods:topic>
+      <mods:topic>Oligomyrmex bruni</mods:topic>
+      <mods:topic>Oligomyrmex corniger</mods:topic>
+      <mods:topic>Oligomyrmex erythraeus</mods:topic>
+      <mods:topic>Oligomyrmex rothneyi</mods:topic>
+      <mods:topic>Carebara arnoldi</mods:topic>
+      <mods:topic>Carebara junodi</mods:topic>
+      <mods:topic>Carebara sicheli</mods:topic>
+      <mods:topic>Carebara anophthalma</mods:topic>
+      <mods:topic>Carebara mayri</mods:topic>
+      <mods:topic>Paedalgus termitolestes</mods:topic>
+      <mods:topic>Prodicroaspis</mods:topic>
+      <mods:topic>Calyptomyrmex claviseta</mods:topic>
+      <mods:topic>Meranoplus excisus</mods:topic>
+      <mods:topic>Meranoplus mayri</mods:topic>
+      <mods:topic>Meranoplus mucronatus</mods:topic>
+      <mods:topic>Meranoplus spinosus</mods:topic>
+      <mods:topic>Meranoplus dichrous</mods:topic>
+      <mods:topic>Meranoplus diversus subsp. oxleyi</mods:topic>
+      <mods:topic>Meranoplus mars</mods:topic>
+      <mods:topic>Podomyrmini</mods:topic>
+      <mods:topic>Dilobocondyla</mods:topic>
+      <mods:topic>Myrmecina sulcata</mods:topic>
+      <mods:topic>Pristomyrmex brevispinosus subsp. sulcata var. formosae</mods:topic>
+      <mods:topic>Pristomyrmex coggii</mods:topic>
+      <mods:topic>Pristomyrmex pungens</mods:topic>
+      <mods:topic>Podomyrma adelaidae var. brevidentata</mods:topic>
+      <mods:topic>Podomyrma albertisi</mods:topic>
+      <mods:topic>Podomyrma basalis subsp. nigrescens</mods:topic>
+      <mods:topic>Podomyrma bispinosa</mods:topic>
+      <mods:topic>Podomyrma elongata</mods:topic>
+      <mods:topic>Podomyrma laevissima</mods:topic>
+      <mods:topic>Podomyrma ruficeps subsp. abdominalis var. opacula</mods:topic>
+      <mods:topic>Podomyrma silvicola</mods:topic>
+      <mods:topic>Podomyrma silvicola subsp. bicolor</mods:topic>
+      <mods:topic>Podomyrma striata</mods:topic>
+      <mods:topic>Atopomyrmex cryptoceroides</mods:topic>
+      <mods:topic>Atopomyrmex mocquerysi var. australis</mods:topic>
+      <mods:topic>Dilobocondyla cataulacoides</mods:topic>
+      <mods:topic>Terataner luteus</mods:topic>
+      <mods:topic>Atopula ceylonica</mods:topic>
+      <mods:topic>Atopula ceylonica var. sumatrensis</mods:topic>
+      <mods:topic>Atopula ceylonica var. taylori</mods:topic>
+      <mods:topic>Formicoxenus</mods:topic>
+      <mods:topic>Leptothorax vicinus var. testacea</mods:topic>
+      <mods:topic>Leptothorax asper</mods:topic>
+      <mods:topic>Leptothorax asper var. rufa</mods:topic>
+      <mods:topic>Leptothorax asper var. sulfurea</mods:topic>
+      <mods:topic>Leptothorax rottenbergi subsp. amnibalis var. transitoria</mods:topic>
+      <mods:topic>Leptothorax rottenbergi subsp. scabrosa var. irregularis</mods:topic>
+      <mods:topic>Leptothorax angustulus subsp. algirica</mods:topic>
+      <mods:topic>Leptothorax angustulus subsp. silvanus</mods:topic>
+      <mods:topic>Leptothorax corticalis</mods:topic>
+      <mods:topic>Leptothorax flavispinus subsp. santschii var. rufescens</mods:topic>
+      <mods:topic>Leptothorax racovitzai</mods:topic>
+      <mods:topic>Leptothorax tuberum</mods:topic>
+      <mods:topic>Leptothorax tuberum subsp. spinosa</mods:topic>
+      <mods:topic>Leptothorax eldoradensis</mods:topic>
+      <mods:topic>Leptothorax schmittii</mods:topic>
+      <mods:topic>Leptothorax fortinodis</mods:topic>
+      <mods:topic>Leptothorax arenarius var. fusciventris</mods:topic>
+      <mods:topic>Leptothorax delaparti</mods:topic>
+      <mods:topic>Leptothorax longipilosus</mods:topic>
+      <mods:topic>Leptothorax hirticornis var. formidolosa</mods:topic>
+      <mods:topic>Leptothorax muscorum</mods:topic>
+      <mods:topic>Leptothorax muscorum var. sordida</mods:topic>
+      <mods:topic>Rogeria stigmatica subsp. sublevinodis</mods:topic>
+      <mods:topic>Ocymyrmex</mods:topic>
+      <mods:topic>Decamorium</mods:topic>
+      <mods:topic>Tetramyrma</mods:topic>
+      <mods:topic>Triglyphothrix auropunctata var. rhodesiana</mods:topic>
+      <mods:topic>Triglyphothrix gabonensis var. boulognei</mods:topic>
+      <mods:topic>Triglyphothrix marleyi</mods:topic>
+      <mods:topic>Triglyphothrix parvispina</mods:topic>
+      <mods:topic>Triglyphothrix striatidens subsp. orissana</mods:topic>
+      <mods:topic>Triglyphothrix walshi</mods:topic>
+      <mods:topic>Tetramorium guineense var. macra</mods:topic>
+      <mods:topic>Tetramorium caespitum var. sarkissiani</mods:topic>
+      <mods:topic>Tetramorium caespitum var. schmidti</mods:topic>
+      <mods:topic>Tetramorium guineense var. phasias</mods:topic>
+      <mods:topic>Tetramorium caespitum subsp. biskrensis var. oxyomma</mods:topic>
+      <mods:topic>Tetramorium caespitum subsp. punica var. lucidula</mods:topic>
+      <mods:topic>Tetramorium caespitum subsp. semilaevis</mods:topic>
+      <mods:topic>Tetramorium exasperatum</mods:topic>
+      <mods:topic>Tetramorium meridionale</mods:topic>
+      <mods:topic>Tetramorium emeryi subsp. cristulata</mods:topic>
+      <mods:topic>Tetramorium jauresi</mods:topic>
+      <mods:topic>Tetramorium kelleri</mods:topic>
+      <mods:topic>Tetramorium longicorne</mods:topic>
+      <mods:topic>Tetramorium luteipes</mods:topic>
+      <mods:topic>Tetramorium pauper subsp. transformans</mods:topic>
+      <mods:topic>Tetramorium pusillum var. exoleta</mods:topic>
+      <mods:topic>Tetramorium sericeiventre var. debilis</mods:topic>
+      <mods:topic>Tetramorium setuliferum subsp. cluna</mods:topic>
+      <mods:topic>Tetramorium tosii</mods:topic>
+      <mods:topic>Tetramorium bicolor subsp. tricarinata</mods:topic>
+      <mods:topic>Tetramorium curvispinosum</mods:topic>
+      <mods:topic>Tetramorium elisabethae</mods:topic>
+      <mods:topic>Tetramorium obtusidens</mods:topic>
+      <mods:topic>Xiphomyrmex bessoni</mods:topic>
+      <mods:topic>Xiphomyrmex escherichi</mods:topic>
+      <mods:topic>Xiphomyrmex sikorae</mods:topic>
+      <mods:topic>Xiphomyrmex tortuosus var. eleates</mods:topic>
+      <mods:topic>Rhoptromyrmex mayri</mods:topic>
+      <mods:topic>Rhoptromyrmex melleus</mods:topic>
+      <mods:topic>Rhoptromyrmex wroughtoni</mods:topic>
+      <mods:topic>Eutetramorium mocquerisi</mods:topic>
+      <mods:topic>Wasmannia auropunctata var. laevifrons</mods:topic>
+      <mods:topic>Wasmannia auropunctata var. obscura</mods:topic>
+      <mods:topic>Wasmannia iheringi</mods:topic>
+      <mods:topic>Cataulacus baumi var. bulawayensis</mods:topic>
+      <mods:topic>Cataulacus erinaceus</mods:topic>
+      <mods:topic>Cataulacus huberi var. longispinosus</mods:topic>
+      <mods:topic>Cataulacus pygmaeus subsp. jeanneli</mods:topic>
+      <mods:topic>Cataulacus flagitiosus</mods:topic>
+      <mods:topic>Cataulacus granulatus var. hispidula</mods:topic>
+      <mods:topic>Procryptocerus</mods:topic>
+      <mods:topic>Cryptocerus</mods:topic>
+      <mods:topic>Procryptocerus batesi</mods:topic>
+      <mods:topic>Procryptocerus striatus</mods:topic>
+      <mods:topic>Procryptocerus striatus subsp. convergens</mods:topic>
+      <mods:topic>Procryptocerus sulcatus</mods:topic>
+      <mods:topic>Cephalotes placidus</mods:topic>
+      <mods:topic>Cryptocerus complanatus</mods:topic>
+      <mods:topic>Cryptocerus complanatus subsp. ramiphilus</mods:topic>
+      <mods:topic>Cryptocerus inaequalis</mods:topic>
+      <mods:topic>Cryptocerus multispinus</mods:topic>
+      <mods:topic>Cryptocerus depressus</mods:topic>
+      <mods:topic>Cryptocerus goeldii</mods:topic>
+      <mods:topic>Cryptocerus peltatus subsp. ellenriederi var. tucumana</mods:topic>
+      <mods:topic>Cryptocerus striativentris</mods:topic>
+      <mods:topic>Cryptocerus pallens</mods:topic>
+      <mods:topic>Cryptocerus pallens var. discocephala</mods:topic>
+      <mods:topic>Daceton</mods:topic>
+      <mods:topic>Microdaceton</mods:topic>
+      <mods:topic>Orectognathus</mods:topic>
+      <mods:topic>Strumigenys</mods:topic>
+      <mods:topic>Strumigenys feae var. formosensis</mods:topic>
+      <mods:topic>Strumigenys godeffroyi</mods:topic>
+      <mods:topic>Strumigenys mayri var. bismarckensis</mods:topic>
+      <mods:topic>Strumigenys smythiesi</mods:topic>
+      <mods:topic>Strumigenys szalayi</mods:topic>
+      <mods:topic>Strumigenys wallacei</mods:topic>
+      <mods:topic>Strumigenys unidentata</mods:topic>
+      <mods:topic>Strumigenys membranifera var. santschii</mods:topic>
+      <mods:topic>Strumigenys emarginata</mods:topic>
+      <mods:topic>Strumigenys alberti var. nigrescens</mods:topic>
+      <mods:topic>Strumigenys clypeata</mods:topic>
+      <mods:topic>Strumigenys friderici-mï¿½lleri</mods:topic>
+      <mods:topic>Strumigenys pulchella</mods:topic>
+      <mods:topic>Basiceros singularis</mods:topic>
+      <mods:topic>Rhopalothrix procera</mods:topic>
+      <mods:topic>Epopostruma quadrispinosa</mods:topic>
+      <mods:topic>Myrmicocrypta collaris</mods:topic>
+      <mods:topic>Myrmicocrypta dilacerata subsp. cornuta</mods:topic>
+      <mods:topic>Apterostigma branneri</mods:topic>
+      <mods:topic>Apterostigma steigeri</mods:topic>
+      <mods:topic>Apterostigma wasmanni</mods:topic>
+      <mods:topic>Mycetophylax</mods:topic>
+      <mods:topic>Cyphomyrmex auritus</mods:topic>
+      <mods:topic>Cyphomyrmex flavidus</mods:topic>
+      <mods:topic>Cyphomyrmex foxi</mods:topic>
+      <mods:topic>Cyphomyrmex rimosus var. atrata</mods:topic>
+      <mods:topic>Cyphomyrmex rimosus var. major</mods:topic>
+      <mods:topic>Cyphomyrmex parallelus</mods:topic>
+      <mods:topic>Cyphomyrmex irmgardae</mods:topic>
+      <mods:topic>Cyphomyrmex urichi subsp. fusca</mods:topic>
+      <mods:topic>Acromyrmex aspersus subsp. dimidiata</mods:topic>
+      <mods:topic>Acromyrmex lobicornis var. pruinosior</mods:topic>
+      <mods:topic>Acromyrmex mesonotalis</mods:topic>
+      <mods:topic>Acromyrmex mesonotalis var. inquirens</mods:topic>
+      <mods:topic>Acromyrmex moelleri subsp. meinerti</mods:topic>
+      <mods:topic>Acromyrmex niger</mods:topic>
+      <mods:topic>Acromyrmex octospinosus var. echinatior</mods:topic>
+      <mods:topic>Acromyrmex fracticornis</mods:topic>
+      <mods:topic>Atta biscutata</mods:topic>
+      <mods:topic>Atta cephalotes subsp. polita</mods:topic>
+      <mods:topic>Atta columbica</mods:topic>
+      <mods:topic>Myrmica obscurata</mods:topic>
+      <mods:topic>Myrmica pallinodis</mods:topic>
+      <mods:topic>Tetramorium caespitum var. syriaca</mods:topic>
+      <mods:topic>Aï¿½romyrmex</mods:topic>
+      <mods:topic>Lophomyrmex quadrispinosus subsp. taivanae</mods:topic>
+      <mods:topic>Pheidologeton affinis var. javana</mods:topic>
+      <mods:topic>Pheidologeton hostilis</mods:topic>
+      <mods:topic>Aneleus minimus</mods:topic>
+      <mods:topic>Aneleus similis var. crassiuscula</mods:topic>
+      <mods:topic>Oligomyrmex sundaicus</mods:topic>
+      <mods:topic>Oligomyrmex debilis</mods:topic>
+      <mods:topic>Oligomyrmex leei</mods:topic>
+      <mods:topic>Oligomyrmex sauteri</mods:topic>
+      <mods:topic>Oligomyrmex sublatro</mods:topic>
+      <mods:topic>Octella</mods:topic>
+      <mods:topic>Prodicroaspis sarasini</mods:topic>
+      <mods:topic>Calyptomyrmex foreli</mods:topic>
+      <mods:topic>Meranoplus bondroiti</mods:topic>
+      <mods:topic>Meranoplus radamae</mods:topic>
+      <mods:topic>Meranoplus armatus</mods:topic>
+      <mods:topic>Meranoplus castaneus</mods:topic>
+      <mods:topic>Meranoplus hirsutus</mods:topic>
+      <mods:topic>Meranoplus pubescens</mods:topic>
+      <mods:topic>Meranoplus puryi</mods:topic>
+      <mods:topic>Myrmecina graminicola subsp. nipponica</mods:topic>
+      <mods:topic>Myrmecina bandarensis</mods:topic>
+      <mods:topic>Myrmecina sauteri</mods:topic>
+      <mods:topic>Pristomyrmex parvispina</mods:topic>
+      <mods:topic>Pristomyrmex lucidus</mods:topic>
+      <mods:topic>Pristomyrmex picteti</mods:topic>
+      <mods:topic>Pristomyrmex quadridentatus</mods:topic>
+      <mods:topic>Acanthomyrmex kochi</mods:topic>
+      <mods:topic>Podomyrma femorata</mods:topic>
+      <mods:topic>Podomyrma gratiosa</mods:topic>
+      <mods:topic>Podomyrma keysseri</mods:topic>
+      <mods:topic>Podomyrma nitida</mods:topic>
+      <mods:topic>Podomyrma octodentata</mods:topic>
+      <mods:topic>Podomyrma odae</mods:topic>
+      <mods:topic>Dilobocondyla cataulacoides var. fulva</mods:topic>
+      <mods:topic>Terataner rufipes</mods:topic>
+      <mods:topic>Terataner steinheili</mods:topic>
+      <mods:topic>Macromischa gundlachi</mods:topic>
+      <mods:topic>Macromischa iris</mods:topic>
+      <mods:topic>Macromischa lucayensis</mods:topic>
+      <mods:topic>Leptothorax humerosus</mods:topic>
+      <mods:topic>Leptothorax sculptiventris</mods:topic>
+      <mods:topic>Leptothorax echinatinodis var. aculeatinodis</mods:topic>
+      <mods:topic>Leptothorax hesperius subsp. anacanthus</mods:topic>
+      <mods:topic>Leptothorax risii subsp. globulinodis</mods:topic>
+      <mods:topic>Leptothorax rottenbergi subsp. amnibalis var. littoralis</mods:topic>
+      <mods:topic>Leptothorax rottenbergi subsp. ernesti</mods:topic>
+      <mods:topic>Leptothorax angustulus subsp. trabuti var. veneris</mods:topic>
+      <mods:topic>Leptothorax bulgaricus subsp. pamirica</mods:topic>
+      <mods:topic>Leptothorax corticalis var. nylandero-corticalis</mods:topic>
+      <mods:topic>Leptothorax exilis var. leviceps</mods:topic>
+      <mods:topic>Leptothorax gracilicornis</mods:topic>
+      <mods:topic>Leptothorax laurae</mods:topic>
+      <mods:topic>Leptothorax laurae var. colettae</mods:topic>
+      <mods:topic>Leptothorax nigrita var. salambo</mods:topic>
+      <mods:topic>Leptothorax normandi</mods:topic>
+      <mods:topic>Leptothorax nylanderi var. nylandero-unifasciata</mods:topic>
+      <mods:topic>Leptothorax nylanderi subsp. lichtensteini</mods:topic>
+      <mods:topic>Leptothorax rabaudi</mods:topic>
+      <mods:topic>Leptothorax semenovi</mods:topic>
+      <mods:topic>Leptothorax serviculus</mods:topic>
+      <mods:topic>Leptothorax tuberum subsp. oxiana</mods:topic>
+      <mods:topic>Leptothorax andrei</mods:topic>
+      <mods:topic>Leptothorax nitens var. mariposa</mods:topic>
+      <mods:topic>Leptothorax silvestrii</mods:topic>
+      <mods:topic>Leptothorax rugatulus subsp. brunnescens</mods:topic>
+      <mods:topic>Leptothorax tenuispinus</mods:topic>
+      <mods:topic>Epimyrma corsica</mods:topic>
+      <mods:topic>Rogeria procera</mods:topic>
+      <mods:topic>Rogeria tonduzi</mods:topic>
+      <mods:topic>Rogeria curvipubens</mods:topic>
+      <mods:topic>Lachnomyrmex scrobiculatus</mods:topic>
+      <mods:topic>Ocymyrmex hirsutus var. flaviventris</mods:topic>
+      <mods:topic>Ocymyrmex picardi</mods:topic>
+      <mods:topic>Ocymyrmex robecchii subsp. nitidula</mods:topic>
+      <mods:topic>Triglyphothrix constanciae</mods:topic>
+      <mods:topic>Triglyphothrix eminii</mods:topic>
+      <mods:topic>Triglyphothrix lanuginosa</mods:topic>
+      <mods:topic>Triglyphothrix striatidens</mods:topic>
+      <mods:topic>Tetramorium caespitum var. hammi</mods:topic>
+      <mods:topic>Tetramorium caespitum subsp. ferox</mods:topic>
+      <mods:topic>Tetramorium caespitum subsp. punica var. atlantis</mods:topic>
+      <mods:topic>Tetramorium caespitum subsp. punica var. reticuliventris</mods:topic>
+      <mods:topic>Tetramorium africanum</mods:topic>
+      <mods:topic>Tetramorium bequaerti subsp. bruni</mods:topic>
+      <mods:topic>Tetramorium grandinode</mods:topic>
+      <mods:topic>Tetramorium grazsii</mods:topic>
+      <mods:topic>Tetramorium grazsii var. laevigata</mods:topic>
+      <mods:topic>Tetramorium grazsii var. simulans</mods:topic>
+      <mods:topic>Tetramorium laevithorax</mods:topic>
+      <mods:topic>Tetramorium pusillum var. tablensis</mods:topic>
+      <mods:topic>Tetramorium pusillum subsp. altivagans</mods:topic>
+      <mods:topic>Tetramorium pusillum subsp. mossamedensis</mods:topic>
+      <mods:topic>Tetramorium sericeiventre var. nigriventris</mods:topic>
+      <mods:topic>Tetramorium sericeiventre subsp. inversa</mods:topic>
+      <mods:topic>Tetramorium solidum subsp. lugubris</mods:topic>
+      <mods:topic>Tetramorium subcoecum var. inscia</mods:topic>
+      <mods:topic>Tetramorium coonoorense</mods:topic>
+      <mods:topic>Tetramorium papuanum</mods:topic>
+      <mods:topic>Strongylognathus huberi var. christophi</mods:topic>
+      <mods:topic>Strongylognathus huberi subsp. alpina</mods:topic>
+      <mods:topic>Xiphomyrmex andrei subsp. robustior</mods:topic>
+      <mods:topic>Xiphomyrmex ranarum</mods:topic>
+      <mods:topic>Xiphomyrmex steinheili</mods:topic>
+      <mods:topic>Xiphomyrmex viehmeyeri var. striolata</mods:topic>
+      <mods:topic>Rhoptromyrmex arnoldi</mods:topic>
+      <mods:topic>Rhoptromyrmex globulinodis</mods:topic>
+      <mods:topic>Rhoptromyrmex tessmanni</mods:topic>
+      <mods:topic>Lundella balzani</mods:topic>
+      <mods:topic>Ochetomyrmex</mods:topic>
+      <mods:topic>Wasmannia sigmoidea</mods:topic>
+      <mods:topic>Cataulacus princeps</mods:topic>
+      <mods:topic>Cataulacus guineensis</mods:topic>
+      <mods:topic>Cataulacus hararicus</mods:topic>
+      <mods:topic>Cataulacus huberi</mods:topic>
+      <mods:topic>Cataulacus otii</mods:topic>
+      <mods:topic>Cataulacus pygmaeus var. bakusuensis</mods:topic>
+      <mods:topic>Cataulacus pygmaeus subsp. difficilis</mods:topic>
+      <mods:topic>Cataulacus pygmaeus subsp. lujae var. weissi</mods:topic>
+      <mods:topic>Cataulacus insularis</mods:topic>
+      <mods:topic>Cataulacus taprobanae var. resinosa</mods:topic>
+      <mods:topic>Cataulacus wasmanni</mods:topic>
+      <mods:topic>Procryptocerus pictipes</mods:topic>
+      <mods:topic>Procryptocerus subpilosus subsp. impressa</mods:topic>
+      <mods:topic>Cryptocerus silvae</mods:topic>
+      <mods:topic>Cryptocerus emeryi</mods:topic>
+      <mods:topic>Cryptocerus aztecus</mods:topic>
+      <mods:topic>Cryptocerus targionii</mods:topic>
+      <mods:topic>Cryptocerus texanus</mods:topic>
+      <mods:topic>Cryptocerus angulosus</mods:topic>
+      <mods:topic>Cryptocerus jucundus</mods:topic>
+      <mods:topic>Epopostruma</mods:topic>
+      <mods:topic>Blepharidatta brasiliensis</mods:topic>
+      <mods:topic>Orectognathus antennatus</mods:topic>
+      <mods:topic>Strumigenys havilandi subsp. marleyi</mods:topic>
+      <mods:topic>Strumigenys reticulata</mods:topic>
+      <mods:topic>Strumigenys traegaordhi</mods:topic>
+      <mods:topic>Strumigenys chyzeri</mods:topic>
+      <mods:topic>Strumigenys friedae</mods:topic>
+      <mods:topic>Strumigenys godeffroyi var. indica</mods:topic>
+      <mods:topic>Strumigenys batesi</mods:topic>
+      <mods:topic>Strumigenys cordovensis var. mokensis</mods:topic>
+      <mods:topic>Strumigenys gundlachi</mods:topic>
+      <mods:topic>Strumigenys mandibularis</mods:topic>
+      <mods:topic>Strumigenys saliens</mods:topic>
+      <mods:topic>Strumigenys simoni</mods:topic>
+      <mods:topic>Strumigenys alberti</mods:topic>
+      <mods:topic>Strumigenys ornata</mods:topic>
+      <mods:topic>Strumigenys rostrata</mods:topic>
+      <mods:topic>Epitritus mandibularis</mods:topic>
+      <mods:topic>Rhopalothrix petiolata</mods:topic>
+      <mods:topic>Rhopalothrix bolaui</mods:topic>
+      <mods:topic>Rhopalothrix brevicornis</mods:topic>
+      <mods:topic>Rhopalothrix punctata</mods:topic>
+      <mods:topic>Proatta butteli</mods:topic>
+      <mods:topic>Mycocepurus goeldii var. schuppi</mods:topic>
+      <mods:topic>Mycocepurus smithi var. tolteca</mods:topic>
+      <mods:topic>Myrmicocrypta godmani</mods:topic>
+      <mods:topic>Apterostigma collare</mods:topic>
+      <mods:topic>Apterostigma urichi</mods:topic>
+      <mods:topic>Trachymyrmex</mods:topic>
+      <mods:topic>Cyphomyrmex championi</mods:topic>
+      <mods:topic>Cyphomyrmex rimosus</mods:topic>
+      <mods:topic>Cyphomyrmex brittoni</mods:topic>
+      <mods:topic>Cyphomyrmex intermedius</mods:topic>
+      <mods:topic>Cyphomyrmex maritimus</mods:topic>
+      <mods:topic>Cyphomyrmex pruinosa</mods:topic>
+      <mods:topic>Cyphomyrmex septentrionalis subsp. obscurior var. crystallina</mods:topic>
+      <mods:topic>Cyphomyrmex turrifex</mods:topic>
+      <mods:topic>Oecodoma pallida</mods:topic>
+      <mods:topic>Acromyrmex laticeps</mods:topic>
+      <mods:topic>Acromyrmex lobicornis var. ferruginea</mods:topic>
+      <mods:topic>Acromyrmex moelleri subsp. meinerti var. globoculis</mods:topic>
+      <mods:topic>Acromyrmex moelleri subsp. rectispina</mods:topic>
+      <mods:topic>Acromyrmex landolti</mods:topic>
+      <mods:topic>Atta cephalotes var. opaca</mods:topic>
+      <mods:topic>Atta insularis</mods:topic>
+      <mods:topic>Atta insularis subsp. mexicana</mods:topic>
+      <mods:topic>Atta laevigata subsp. vollenweideri var. obscurata</mods:topic>
+      <mods:topic>Atta sexdens var. rubropilosa</mods:topic>
+      <mods:topic>Myrmica cursor</mods:topic>
+      <mods:topic>Atta fumipennis</mods:topic>
+      <mods:topic>Formica pusilla</mods:topic>
+      <mods:topic>Tetramorium caespitum var. flavidula</mods:topic>
+      <mods:topic>Tetramorium grazsii var. mayri</mods:topic>
+      <mods:topic>Trigonogaster recurvispinosa</mods:topic>
+      <mods:topic>Aneleus aborensis</mods:topic>
+      <mods:topic>Aneleus pygmaeus var. albipes</mods:topic>
+      <mods:topic>Aneleus similis</mods:topic>
+      <mods:topic>Oligomyrmex asinus</mods:topic>
+      <mods:topic>Oligomyrmex raja</mods:topic>
+      <mods:topic>Promeranoplus</mods:topic>
+      <mods:topic>Calyptomyrmex beccarii</mods:topic>
+      <mods:topic>Meranoplus simoni subsp. nitidiventris var. springvalensis</mods:topic>
+      <mods:topic>Meranoplus laeviventris</mods:topic>
+      <mods:topic>Meranoplus rothneyi</mods:topic>
+      <mods:topic>Meranoplus froggatti</mods:topic>
+      <mods:topic>Meranoplus hirsutus subsp. minor</mods:topic>
+      <mods:topic>Meranoplus hospes</mods:topic>
+      <mods:topic>Meranoplus pubescens subsp. fenestrata var. christmasensis</mods:topic>
+      <mods:topic>Meranoplus puryi var. curvispina</mods:topic>
+      <mods:topic>Pristomyrmex</mods:topic>
+      <mods:topic>Atopomyrmex</mods:topic>
+      <mods:topic>Myrmecina graminicola var. striatula</mods:topic>
+      <mods:topic>Myrmecina sicula</mods:topic>
+      <mods:topic>Myrmecina brevicornis</mods:topic>
+      <mods:topic>Myrmecina polita</mods:topic>
+      <mods:topic>Myrmecina transversa</mods:topic>
+      <mods:topic>Pristomyrmex trachylissa var. bicolor</mods:topic>
+      <mods:topic>Dacryon turneri</mods:topic>
+      <mods:topic>Podomyrma adelaidae</mods:topic>
+      <mods:topic>Podomyrma bimaculata</mods:topic>
+      <mods:topic>Podomyrma laeviceps subsp. gracilis</mods:topic>
+      <mods:topic>Podomyrma laevifrons</mods:topic>
+      <mods:topic>Lordomyrma cryptocera var. acuminata</mods:topic>
+      <mods:topic>Atopomyrmex deplanatus</mods:topic>
+      <mods:topic>Dilobocondyla selebensis</mods:topic>
+      <mods:topic>Dilobocondyla selebensis subsp. simalurana</mods:topic>
+      <mods:topic>Atopula belti</mods:topic>
+      <mods:topic>Rogeria</mods:topic>
+      <mods:topic>Macromischa pulchella</mods:topic>
+      <mods:topic>Macromischa sallei</mods:topic>
+      <mods:topic>Macromischa versicolor</mods:topic>
+      <mods:topic>Mychothorax</mods:topic>
+      <mods:topic>Leptothorax evelynae</mods:topic>
+      <mods:topic>Leptothorax sculptiventris var. major</mods:topic>
+      <mods:topic>Leptothorax cabrerae subsp. producta var. sericeiventris</mods:topic>
+      <mods:topic>Leptothorax rottenbergi var. balcanica</mods:topic>
+      <mods:topic>Leptothorax rottenbergi subsp. scabrosa</mods:topic>
+      <mods:topic>Leptothorax rottenbergi subsp. semirubra</mods:topic>
+      <mods:topic>Leptothorax angustulus var. kraussei</mods:topic>
+      <mods:topic>Leptothorax bulgaricus subsp. graeca</mods:topic>
+      <mods:topic>Leptothorax convexus</mods:topic>
+      <mods:topic>Leptothorax exilis var. obscurior</mods:topic>
+      <mods:topic>Leptothorax flavispinus subsp. santschii var. crassispina</mods:topic>
+      <mods:topic>Leptothorax nylanderi</mods:topic>
+      <mods:topic>Leptothorax nylanderi subsp. tebessae</mods:topic>
+      <mods:topic>Leptothorax nylanderi subsp. tebessae var. gentilis</mods:topic>
+      <mods:topic>Leptothorax tuberum subsp. tuberum</mods:topic>
+      <mods:topic>Leptothorax tuberum subsp. unifasciata</mods:topic>
+      <mods:topic>Leptothorax tuberum subsp. unifasciata var. stï¿½geri</mods:topic>
+      <mods:topic>Leptothorax fultoni</mods:topic>
+      <mods:topic>Leptothorax rothneyi var. simlensis</mods:topic>
+      <mods:topic>Leptothorax manni</mods:topic>
+      <mods:topic>Leptothorax nitens var. heathii</mods:topic>
+      <mods:topic>Leptothorax terrigena</mods:topic>
+      <mods:topic>Leptothorax texanus subsp. davisi</mods:topic>
+      <mods:topic>Leptothorax rugatulus</mods:topic>
+      <mods:topic>Leptothorax hadrumetensis</mods:topic>
+      <mods:topic>Leptothorax pallidipes</mods:topic>
+      <mods:topic>Leptothorax recedens</mods:topic>
+      <mods:topic>Leptothorax recedens var. suberis</mods:topic>
+      <mods:topic>Leptothorax emersoni subsp. hirtipilis</mods:topic>
+      <mods:topic>Leptothorax muscorum var. fagi</mods:topic>
+      <mods:topic>Leptothorax muscorum subsp. flavescens</mods:topic>
+      <mods:topic>Epimyrma ravouxi</mods:topic>
+      <mods:topic>Rogeria foreli</mods:topic>
+      <mods:topic>Ocymyrmex hirsutus</mods:topic>
+      <mods:topic>Ocymyrmex weitzeckeri subsp. arnoldi var. foreli</mods:topic>
+      <mods:topic>Ocymyrmex weitzeckeri subsp. transversa</mods:topic>
+      <mods:topic>Ocymyrmex weitzeckeri subsp. wroughtoni</mods:topic>
+      <mods:topic>Tetramorium</mods:topic>
+      <mods:topic>Eutetramorium</mods:topic>
+      <mods:topic>Triglyphothrix auropunctata</mods:topic>
+      <mods:topic>Triglyphothrix gabonensis var. brevispinosa</mods:topic>
+      <mods:topic>Triglyphothrix imbellis</mods:topic>
+      <mods:topic>Triglyphothrix parvispina var. formosae</mods:topic>
+      <mods:topic>Tetramorium caespitum subsp. ferox var. laevior</mods:topic>
+      <mods:topic>Tetramorium caespitum subsp. himalayana</mods:topic>
+      <mods:topic>Tetramorium caespitum subsp. punica</mods:topic>
+      <mods:topic>Tetramorium striativentre subsp. schneideri</mods:topic>
+      <mods:topic>Tetramorium simillimum</mods:topic>
+      <mods:topic>Tetramorium simillimum var. madecassa</mods:topic>
+      <mods:topic>Tetramorium simillimum var. shilohensis</mods:topic>
+      <mods:topic>Tetramorium aculeatum subsp. wasmanni</mods:topic>
+      <mods:topic>Tetramorium camerunense var. gegaimi</mods:topic>
+      <mods:topic>Tetramorium doriae</mods:topic>
+      <mods:topic>Tetramorium ericae</mods:topic>
+      <mods:topic>Tetramorium frenchi</mods:topic>
+      <mods:topic>Tetramorium neuvillei</mods:topic>
+      <mods:topic>Tetramorium pauper var. nigra</mods:topic>
+      <mods:topic>Tetramorium pusillum var. anxia</mods:topic>
+      <mods:topic>Tetramorium pusillum var. bantouana</mods:topic>
+      <mods:topic>Tetramorium pusillum subsp. ghindana var. nefassitensis</mods:topic>
+      <mods:topic>Tetramorium sericeiventre var. gamaii</mods:topic>
+      <mods:topic>Tetramorium sericeiventre var. hori</mods:topic>
+      <mods:topic>Tetramorium sericeiventre var. jasonis</mods:topic>
+      <mods:topic>Tetramorium sericeiventre subsp. petersi</mods:topic>
+      <mods:topic>Tetramorium setigerum</mods:topic>
+      <mods:topic>Tetramorium setuliferum</mods:topic>
+      <mods:topic>Tetramorium squaminode subsp. do</mods:topic>
+      <mods:topic>Tetramorium termitobium</mods:topic>
+      <mods:topic>Tetramorium pulchellum</mods:topic>
+      <mods:topic>Tetramorium tonganum</mods:topic>
+      <mods:topic>Tetramorium wagneri</mods:topic>
+      <mods:topic>Strongylognathus testaceus</mods:topic>
+      <mods:topic>Xiphomyrmex humbloti var. victoriensis</mods:topic>
+      <mods:topic>Xiphomyrmex nassonovi</mods:topic>
+      <mods:topic>Xiphomyrmex schaufussi</mods:topic>
+      <mods:topic>Xiphomyrmex sikorae subsp. xanthogaster</mods:topic>
+      <mods:topic>Xiphomyrmex costatus subsp. flavescens</mods:topic>
+      <mods:topic>Xiphomyrmex pilosus subsp. yerburyi</mods:topic>
+      <mods:topic>Xiphomyrmex tortuosus var. bellii</mods:topic>
+      <mods:topic>Decamorium decem var. ultor</mods:topic>
+      <mods:topic>Rhoptromyrmex solleri</mods:topic>
+      <mods:topic>Rhoptromyrmex steini</mods:topic>
+      <mods:topic>Rhoptromyrmex wroughtoni subsp. rothneyi var. longi</mods:topic>
+      <mods:topic>Wasmannia</mods:topic>
+      <mods:topic>Wasmannia auropunctata var. rugosa</mods:topic>
+      <mods:topic>Wasmannia subpolita</mods:topic>
+      <mods:topic>Cataulacini</mods:topic>
+      <mods:topic>Cataulacus baumi</mods:topic>
+      <mods:topic>Cataulacus baumi var. batonga</mods:topic>
+      <mods:topic>Cataulacus guineensis subsp. alenensis</mods:topic>
+      <mods:topic>Cataulacus pygmaeus var. chariensis</mods:topic>
+      <mods:topic>Cataulacus pygmaeus subsp. degener</mods:topic>
+      <mods:topic>Cataulacus rugosus var. subrugosus</mods:topic>
+      <mods:topic>Cataulacus tenuis</mods:topic>
+      <mods:topic>Procryptocerus clathratus</mods:topic>
+      <mods:topic>Procryptocerus gracilis</mods:topic>
+      <mods:topic>Procryptocerus schmitti</mods:topic>
+      <mods:topic>Procryptocerus spiniperda</mods:topic>
+      <mods:topic>Procryptocerus striatus subsp. adlerzi</mods:topic>
+      <mods:topic>Procryptocerus subpilosus</mods:topic>
+      <mods:topic>Cephalotes oculatus</mods:topic>
+      <mods:topic>Cryptocerus haemorrhoidalis</mods:topic>
+      <mods:topic>Cryptocerus laminatus</mods:topic>
+      <mods:topic>Cryptocerus multispinus var. amazonensis</mods:topic>
+      <mods:topic>Cryptocerus spinosus subsp. peruviana</mods:topic>
+      <mods:topic>Cryptocerus angustus var. clarior</mods:topic>
+      <mods:topic>Cryptocerus bohlsi</mods:topic>
+      <mods:topic>Cryptocerus pilosus</mods:topic>
+      <mods:topic>Cryptocerus serraticeps</mods:topic>
+      <mods:topic>Cryptocerus wheeleri</mods:topic>
+      <mods:topic>Glamyromyrmex</mods:topic>
+      <mods:topic>Orectognathus antennatus var. septentrionalis</mods:topic>
+      <mods:topic>Orectognathus chyzeri</mods:topic>
+      <mods:topic>Orectognathus sexspinosus</mods:topic>
+      <mods:topic>Strumigenys irrorata</mods:topic>
+      <mods:topic>Strumigenys grandidieri</mods:topic>
+      <mods:topic>Strumigenys mayri</mods:topic>
+      <mods:topic>Strumigenys perplexa</mods:topic>
+      <mods:topic>Strumigenys lanuginosa</mods:topic>
+      <mods:topic>Strumigenys schmalzi</mods:topic>
+      <mods:topic>Strumigenys biconvexa</mods:topic>
+      <mods:topic>Strumigenys escherichi subsp. boerorum</mods:topic>
+      <mods:topic>Strumigenys maynei var. latiuscula</mods:topic>
+      <mods:topic>Strumigenys emiliae</mods:topic>
+      <mods:topic>Strumigenys margaritae</mods:topic>
+      <mods:topic>Pentastruma sauteri</mods:topic>
+      <mods:topic>Rhopalothrix iheringi</mods:topic>
+      <mods:topic>Rhopalothrix lutzi</mods:topic>
+      <mods:topic>Rhopalothrix rugifera</mods:topic>
+      <mods:topic>Rhopalothrix emeryi</mods:topic>
+      <mods:topic>Rhopalothrix mixta</mods:topic>
+      <mods:topic>Epopostruma alinodis</mods:topic>
+      <mods:topic>Proattini</mods:topic>
+      <mods:topic>Mycocepurus obsoletus</mods:topic>
+      <mods:topic>Mycocepurus smithi</mods:topic>
+      <mods:topic>Apterostigma moelleri</mods:topic>
+      <mods:topic>Apterostigma robustum</mods:topic>
+      <mods:topic>Sericomyrmex parvulus</mods:topic>
+      <mods:topic>Sericomyrmex saussurei</mods:topic>
+      <mods:topic>Mycetosoritis</mods:topic>
+      <mods:topic>Cyphomyrmex bruchi</mods:topic>
+      <mods:topic>Cyphomyrmex olitor</mods:topic>
+      <mods:topic>Cyphomyrmex rimosus var. pencosensis</mods:topic>
+      <mods:topic>Cyphomyrmex rimosus subsp. dentata</mods:topic>
+      <mods:topic>Cyphomyrmex hartmanni</mods:topic>
+      <mods:topic>Cyphomyrmex gaigei</mods:topic>
+      <mods:topic>Cyphomyrmex iheringi</mods:topic>
+      <mods:topic>Cyphomyrmex jamaicensis</mods:topic>
+      <mods:topic>Cyphomyrmex saussurei</mods:topic>
+      <mods:topic>Acromyrmex aspersus</mods:topic>
+      <mods:topic>Acromyrmex coronatus var. homalops</mods:topic>
+      <mods:topic>Acromyrmex lobicornis</mods:topic>
+      <mods:topic>Acromyrmex lundi var. risi</mods:topic>
+      <mods:topic>Acromyrmex lundi subsp. decolor</mods:topic>
+      <mods:topic>Acromyrmex nigrosetosus</mods:topic>
+      <mods:topic>Acromyrmex fracticornis var. jÃ¶rgenseni</mods:topic>
+      <mods:topic>Acromyrmex landolti subsp. cloosae</mods:topic>
+      <mods:topic>Acromyrmex versicolor subsp. chisosensis</mods:topic>
+      <mods:topic>Atta sexdens</mods:topic>
+      <mods:topic>Myrmica carinata</mods:topic>
+      <mods:topic>Myrmica consternens</mods:topic>
+      <mods:topic>Myrmica corrugata</mods:topic>
+      <mods:topic>Myrmica gracilescens</mods:topic>
+      <mods:topic>Myrmica incerta</mods:topic>
+      <mods:topic>Myrmica insolens</mods:topic>
+      <mods:topic>Myrmica rugifrons</mods:topic>
+      <mods:topic>Atta didita</mods:topic>
+      <mods:topic>Atta dissimilis</mods:topic>
+      <mods:topic>Atta domicola</mods:topic>
+      <mods:topic>Messor</mods:topic>
+      <mods:topic>Cyphomyrmex rimosus var. fuscula</mods:topic>
+      <mods:topic>Lophomyrmicini</mods:topic>
+      <mods:topic>Lophomyrmex</mods:topic>
+      <mods:topic>Trigonogaster</mods:topic>
+      <mods:topic>Oligomyrmex alluaudi</mods:topic>
+      <mods:topic>Oligomyrmex grandidieri</mods:topic>
+      <mods:topic>Oligomyrmex oertzeni</mods:topic>
+      <mods:topic>Oligomyrmex voeltzkowi</mods:topic>
+      <mods:topic>Erebomyrma longi</mods:topic>
+      <mods:topic>Erebomyrma peruviana</mods:topic>
+      <mods:topic>Carebara silvestrii</mods:topic>
+      <mods:topic>Carebara vidua var. abdominalis</mods:topic>
+      <mods:topic>Mayriella</mods:topic>
+      <mods:topic>Meranoplus</mods:topic>
+      <mods:topic>Calyptomyrmex nummuliticus</mods:topic>
+      <mods:topic>Dicroaspis</mods:topic>
+      <mods:topic>Meranoplus simoni</mods:topic>
+      <mods:topic>Meranoplus simoni subsp. nitidiventris</mods:topic>
+      <mods:topic>Meranoplus bellii</mods:topic>
+      <mods:topic>Meranoplus bicolor subsp. lucida</mods:topic>
+      <mods:topic>Meranoplus leveillei</mods:topic>
+      <mods:topic>Meranoplus pubescens subsp. fenestrata</mods:topic>
+      <mods:topic>Myrmecinini</mods:topic>
+      <mods:topic>Podomyrma</mods:topic>
+      <mods:topic>Terataner</mods:topic>
+      <mods:topic>Myrmecina graminicola ab. kutteri</mods:topic>
+      <mods:topic>Myrmecina mandibularis</mods:topic>
+      <mods:topic>Myrmecina punctata</mods:topic>
+      <mods:topic>Myrmecina rugosa</mods:topic>
+      <mods:topic>Pristomyrmex brevispinosus</mods:topic>
+      <mods:topic>Pristomyrmex japonicus</mods:topic>
+      <mods:topic>Pristomyrmex punctatus</mods:topic>
+      <mods:topic>Podomyrma chasei</mods:topic>
+      <mods:topic>Podomyrma gibbula</mods:topic>
+      <mods:topic>Podomyrma ruficeps var. gastralis</mods:topic>
+      <mods:topic>Podomyrma ruficeps subsp. abdominalis</mods:topic>
+      <mods:topic>Podomyrma spinoda</mods:topic>
+      <mods:topic>Atopomyrmex mocquerysi</mods:topic>
+      <mods:topic>Dilobocondyla cataulacoides var. concolor</mods:topic>
+      <mods:topic>Terataner alluaudi</mods:topic>
+      <mods:topic>Terataner bottegoi</mods:topic>
+      <mods:topic>Leptothoracini</mods:topic>
+      <mods:topic>Macromischa salvini</mods:topic>
+      <mods:topic>Goniothorax</mods:topic>
+      <mods:topic>Leptothorax angulatus</mods:topic>
+      <mods:topic>Leptothorax denticulatus</mods:topic>
+      <mods:topic>Leptothorax innocens</mods:topic>
+      <mods:topic>Leptothorax cabrerae subsp. mauritanica</mods:topic>
+      <mods:topic>Leptothorax formosus</mods:topic>
+      <mods:topic>Leptothorax risii</mods:topic>
+      <mods:topic>Leptothorax rottenbergi subsp. scabrosa var. kabyla</mods:topic>
+      <mods:topic>Leptothorax berlandi</mods:topic>
+      <mods:topic>Leptothorax bulgaricus</mods:topic>
+      <mods:topic>Leptothorax bulgaricus var. mellea</mods:topic>
+      <mods:topic>Leptothorax bulgaricus subsp. smyrnensis</mods:topic>
+      <mods:topic>Leptothorax cordieri</mods:topic>
+      <mods:topic>Leptothorax melnikovi</mods:topic>
+      <mods:topic>Leptothorax curvithorax</mods:topic>
+      <mods:topic>Leptothorax exilis subsp. cretica</mods:topic>
+      <mods:topic>Leptothorax flavispinus</mods:topic>
+      <mods:topic>Leptothorax naeviventris</mods:topic>
+      <mods:topic>Leptothorax nassonovi</mods:topic>
+      <mods:topic>Leptothorax niger</mods:topic>
+      <mods:topic>Leptothorax nigrita var. rupestris</mods:topic>
+      <mods:topic>Leptothorax oraniensis</mods:topic>
+      <mods:topic>Leptothorax schaufussi</mods:topic>
+      <mods:topic>Leptothorax tuberum subsp. tuberum var. tubero-nigriceps</mods:topic>
+      <mods:topic>Leptothorax tuberum subsp. stipacea</mods:topic>
+      <mods:topic>Leptothorax melanderi</mods:topic>
+      <mods:topic>Leptothorax tricarinatus</mods:topic>
+      <mods:topic>Leptothorax curvispinosus subsp. ambigua</mods:topic>
+      <mods:topic>Leptothorax rugatulus subsp. annectens</mods:topic>
+      <mods:topic>Leptothorax miserabilis</mods:topic>
+      <mods:topic>Leptothorax floridanus</mods:topic>
+      <mods:topic>Leptothorax acervorum subsp. canadensis var. convivialis</mods:topic>
+      <mods:topic>Leptothorax acervorum subsp. crassipilis</mods:topic>
+      <mods:topic>Leptothorax emersoni</mods:topic>
+      <mods:topic>Leptothorax provancheri</mods:topic>
+      <mods:topic>Rogeria stigmatica</mods:topic>
+      <mods:topic>Ocymyrmex barbiger</mods:topic>
+      <mods:topic>Ocymyrmex weitzeckeri</mods:topic>
+      <mods:topic>Triglyphothrix</mods:topic>
+      <mods:topic>Xiphomyrmex</mods:topic>
+      <mods:topic>Lundella</mods:topic>
+      <mods:topic>Triglyphothrix auropunctata var. pallens</mods:topic>
+      <mods:topic>Triglyphothrix desertorum</mods:topic>
+      <mods:topic>Triglyphothrix gabonensis</mods:topic>
+      <mods:topic>Triglyphothrix gabonensis subsp. soyansi</mods:topic>
+      <mods:topic>Triglyphothrix hepburni</mods:topic>
+      <mods:topic>Triglyphothrix rothschildi</mods:topic>
+      <mods:topic>Triglyphothrix silvestrii</mods:topic>
+      <mods:topic>Triglyphothrix striatidens var. australis</mods:topic>
+      <mods:topic>Tetramorium guineense var. indica</mods:topic>
+      <mods:topic>Tetramorium caespitum var. fortis</mods:topic>
+      <mods:topic>Tetramorium caespitum var. picta</mods:topic>
+      <mods:topic>Tetramorium caespitum var. ruginodis</mods:topic>
+      <mods:topic>Tetramorium caespitum subsp. biskrensis var. kahenae</mods:topic>
+      <mods:topic>Tetramorium striativentre</mods:topic>
+      <mods:topic>Tetramorium bacchus</mods:topic>
+      <mods:topic>Tetramorium intextum var. cataractae</mods:topic>
+      <mods:topic>Tetramorium joffrei var. algoa</mods:topic>
+      <mods:topic>Tetramorium pusillum subsp. ladysmithensis</mods:topic>
+      <mods:topic>Tetramorium pygmaeum</mods:topic>
+      <mods:topic>Tetramorium sericeiventre subsp. continentis var. georgei</mods:topic>
+      <mods:topic>Tetramorium sericeiventre subsp. femorata var. colluta</mods:topic>
+      <mods:topic>Tetramorium setuliferum var. cucalensis</mods:topic>
+      <mods:topic>Tetramorium setuliferum subsp. galoasana</mods:topic>
+      <mods:topic>Tetramorium tersum</mods:topic>
+      <mods:topic>Tetramorium trï¿½gaordhi</mods:topic>
+      <mods:topic>Tetramorium confucii</mods:topic>
+      <mods:topic>Tetramorium kraepelini</mods:topic>
+      <mods:topic>Tetramorium politum</mods:topic>
+      <mods:topic>Tetramorium salvatum</mods:topic>
+      <mods:topic>Strongylognathus afer subsp. caeciliae</mods:topic>
+      <mods:topic>Strongylognathus huberi</mods:topic>
+      <mods:topic>Strongylognathus huberi subsp. rehbinderi</mods:topic>
+      <mods:topic>Xiphomyrmex andrei</mods:topic>
+      <mods:topic>Xiphomyrmex angulinodis</mods:topic>
+      <mods:topic>Xiphomyrmex edouardi</mods:topic>
+      <mods:topic>Xiphomyrmex kelleri</mods:topic>
+      <mods:topic>Xiphomyrmex kivuensis</mods:topic>
+      <mods:topic>Xiphomyrmex muralti subsp. flavithorax</mods:topic>
+      <mods:topic>Xiphomyrmex flavipes</mods:topic>
+      <mods:topic>Xiphomyrmex tenuicrinis</mods:topic>
+      <mods:topic>Xiphomyrmex tortuosus var. ethica</mods:topic>
+      <mods:topic>Xiphomyrmex spinosus</mods:topic>
+      <mods:topic>Xiphomyrmex spinosus subsp. insons</mods:topic>
+      <mods:topic>Rhoptromyrmex opacus var. laeviceps</mods:topic>
+      <mods:topic>Eutetramorium monticellii</mods:topic>
+      <mods:topic>Wasmannia auropunctata</mods:topic>
+      <mods:topic>Wasmannia villosa</mods:topic>
+      <mods:topic>Cataulacus</mods:topic>
+      <mods:topic>Cataulacus guineensis var. sulcata</mods:topic>
+      <mods:topic>Cataulacus intrudens</mods:topic>
+      <mods:topic>Cataulacus marleyi</mods:topic>
+      <mods:topic>Cataulacus pullus</mods:topic>
+      <mods:topic>Cataulacus pygmaeus subsp. lujae</mods:topic>
+      <mods:topic>Cataulacus pygmaeus st. lujae var. plebeia</mods:topic>
+      <mods:topic>Cataulacus wissmanni</mods:topic>
+      <mods:topic>Cataulacus simoni</mods:topic>
+      <mods:topic>Cataulacus taprobanae</mods:topic>
+      <mods:topic>Cryptocerini</mods:topic>
+      <mods:topic>Procryptocerus balzani</mods:topic>
+      <mods:topic>Procryptocerus coriarius</mods:topic>
+      <mods:topic>Procryptocerus hirsutus subsp. convexa</mods:topic>
+      <mods:topic>Procryptocerus rudis</mods:topic>
+      <mods:topic>Procryptocerus striatus subsp. latitans</mods:topic>
+      <mods:topic>Procryptocerus subpilosus subsp. lepida</mods:topic>
+      <mods:topic>Cephalotes atratus</mods:topic>
+      <mods:topic>Cyathocephalus</mods:topic>
+      <mods:topic>Cryptocerus laminatus subsp. christopherseni</mods:topic>
+      <mods:topic>Cryptocerus minutus var. cognatus</mods:topic>
+      <mods:topic>Cryptocerus pusillus</mods:topic>
+      <mods:topic>Cryptocerus pusillus var. columbica</mods:topic>
+      <mods:topic>Cryptocerus basalis</mods:topic>
+      <mods:topic>Cryptocerus fervidus</mods:topic>
+      <mods:topic>Cryptocerus klugi</mods:topic>
+      <mods:topic>Cryptocerus pallidicephalus</mods:topic>
+      <mods:topic>Cryptocerus peltatus</mods:topic>
+      <mods:topic>Cryptocerus peltatus subsp. ellenriederi</mods:topic>
+      <mods:topic>Cryptocerus peltatus subsp. ellenriederi var. jocans</mods:topic>
+      <mods:topic>Cryptocerus ridiculus</mods:topic>
+      <mods:topic>Cryptocerus rohweri</mods:topic>
+      <mods:topic>Cryptocerus maculatus</mods:topic>
+      <mods:topic>Cryptocerus maculatus subsp. nana</mods:topic>
+      <mods:topic>Cryptocerus pallens var. patellaris</mods:topic>
+      <mods:topic>Dacetini</mods:topic>
+      <mods:topic>Strumigenys biroi</mods:topic>
+      <mods:topic>Strumigenys godeffroyi subsp. lewisi</mods:topic>
+      <mods:topic>Strumigenys biolleyi</mods:topic>
+      <mods:topic>Strumigenys smithi</mods:topic>
+      <mods:topic>Cephaloxys</mods:topic>
+      <mods:topic>Strumigenys concolor</mods:topic>
+      <mods:topic>Strumigenys serrula</mods:topic>
+      <mods:topic>Strumigenys inezae</mods:topic>
+      <mods:topic>Octostruma</mods:topic>
+      <mods:topic>Epopostruma quadrispinosa subsp. ferruginea</mods:topic>
+      <mods:topic>Acromyrmex</mods:topic>
+      <mods:topic>Mycocepurus smithi var. eucarnitae</mods:topic>
+      <mods:topic>Myrmicocrypta dilacerata</mods:topic>
+      <mods:topic>Sericomyrmex diego</mods:topic>
+      <mods:topic>Sericomyrmex opacus</mods:topic>
+      <mods:topic>Sericomyrmex urichi</mods:topic>
+      <mods:topic>Cyphomyrmex olitor subsp. lecta</mods:topic>
+      <mods:topic>Cyphomyrmex rimosus var. comalensis</mods:topic>
+      <mods:topic>Cyphomyrmex septentrionalis subsp. septentrionalis var. vertebrata</mods:topic>
+      <mods:topic>Cyphomyrmex sharpi</mods:topic>
+      <mods:topic>Cyphomyrmex squamulifer</mods:topic>
+      <mods:topic>Cyphomyrmex turrifex subsp. caroli</mods:topic>
+      <mods:topic>Acromyrmex coronatus</mods:topic>
+      <mods:topic>Acromyrmex disciger</mods:topic>
+      <mods:topic>Acromyrmex laticeps var. dubia</mods:topic>
+      <mods:topic>Acromyrmex lobicornis var. pencosensis</mods:topic>
+      <mods:topic>Acromyrmex moelleri</mods:topic>
+      <mods:topic>Acromyrmex balzani</mods:topic>
+      <mods:topic>Acromyrmex mesopotamicus</mods:topic>
+      <mods:topic>Acromyrmex versicolor</mods:topic>
+      <mods:topic>Atta cephalotes</mods:topic>
+      <mods:topic>Myrmica assimilis</mods:topic>
+      <mods:topic>Myrmica mellea</mods:topic>
+      <mods:topic>Myrmica modesta</mods:topic>
+      <mods:topic>Myrmica typhlops</mods:topic>
+      <mods:topic>Myrmica umbripennis</mods:topic>
+      <mods:topic>Atta penetrans</mods:topic>
+      <mods:topic>Strongylognathus huberi subsp. foreli</mods:topic>
+      <mods:topic>Strumigenys (Cephaloxys) escherichi var. fusciventris</mods:topic>
+      <mods:topic>Tetramorium caespitum var. debilis</mods:topic>
+      <mods:topic>Oligomyrmex</mods:topic>
+      <mods:topic>Pheidologeton diversus var. ficta</mods:topic>
+      <mods:topic>Pheidologeton silenus</mods:topic>
+      <mods:topic>Pheidologeton laevis</mods:topic>
+      <mods:topic>Pheidologeton pungens</mods:topic>
+      <mods:topic>Pheidologeton transversalis</mods:topic>
+      <mods:topic>Aneleus lamellifrons</mods:topic>
+      <mods:topic>AÃ«romyrma</mods:topic>
+      <mods:topic>Oligomyrmex lucidus</mods:topic>
+      <mods:topic>Oligomyrmex traegaordhi</mods:topic>
+      <mods:topic>Oligomyrmex jeanneli</mods:topic>
+      <mods:topic>Oligomyrmex rugatus</mods:topic>
+      <mods:topic>Calyptomyrmex emeryi</mods:topic>
+      <mods:topic>Meranoplus inermis</mods:topic>
+      <mods:topic>Meranoplus spininodis</mods:topic>
+      <mods:topic>Meranoplus laeviventris var. punctulata</mods:topic>
+      <mods:topic>Meranoplus spinosus subsp. rugifrons</mods:topic>
+      <mods:topic>Meranoplus dimidiatus</mods:topic>
+      <mods:topic>Meranoplus minimus</mods:topic>
+      <mods:topic>Meranoplus oceanicus</mods:topic>
+      <mods:topic>Dacryon</mods:topic>
+      <mods:topic>Atopula</mods:topic>
+      <mods:topic>Myrmecina graminicola subsp. americana</mods:topic>
+      <mods:topic>Myrmecina graminicola subsp. texana</mods:topic>
+      <mods:topic>Myrmecina opaciventris</mods:topic>
+      <mods:topic>Myrmecina semipolita</mods:topic>
+      <mods:topic>Acanthomyrmex notabilis</mods:topic>
+      <mods:topic>Podomyrma delbrï¿½cki</mods:topic>
+      <mods:topic>Podomyrma kraepelini</mods:topic>
+      <mods:topic>Podomyrma novemdentata</mods:topic>
+      <mods:topic>Podomyrma silvicola var. dimidiata</mods:topic>
+      <mods:topic>Podomyrma simillima</mods:topic>
+      <mods:topic>Lordomyrma caledonica</mods:topic>
+      <mods:topic>Lordomyrma furcifera</mods:topic>
+      <mods:topic>Dilobocondyla fouqueti</mods:topic>
+      <mods:topic>Terataner foreli</mods:topic>
+      <mods:topic>Terataner scotti</mods:topic>
+      <mods:topic>Adelomyrmex</mods:topic>
+      <mods:topic>Macromischa albispina</mods:topic>
+      <mods:topic>Macromischa lugens</mods:topic>
+      <mods:topic>Macromischa pastinifera var. opacipes</mods:topic>
+      <mods:topic>Macromischa purpurata</mods:topic>
+      <mods:topic>Leptothorax retusispinosus</mods:topic>
+      <mods:topic>Leptothorax pittieri</mods:topic>
+      <mods:topic>Leptothorax schwebeli</mods:topic>
+      <mods:topic>Leptothorax echinatinodis subsp. dalmasi</mods:topic>
+      <mods:topic>Leptothorax tristani</mods:topic>
+      <mods:topic>Leptothorax bucheti</mods:topic>
+      <mods:topic>Leptothorax cabrerae</mods:topic>
+      <mods:topic>Leptothorax cabrerae var. stitzi</mods:topic>
+      <mods:topic>Leptothorax angustulus var. angustinodis</mods:topic>
+      <mods:topic>Leptothorax atlantis</mods:topic>
+      <mods:topic>Leptothorax bulgaricus subsp. smyrnensis var. ionia</mods:topic>
+      <mods:topic>Leptothorax convexus var. timida</mods:topic>
+      <mods:topic>Leptothorax nigrita</mods:topic>
+      <mods:topic>Leptothorax tuberum subsp. tuberum var. pyrenaea</mods:topic>
+      <mods:topic>Leptothorax tuberum subsp. interrupta</mods:topic>
+      <mods:topic>Leptothorax tuberum subsp. unifasciata var. unifasciato-interrupta</mods:topic>
+      <mods:topic>Leptothorax inermis</mods:topic>
+      <mods:topic>Leptothorax wroughtoni</mods:topic>
+      <mods:topic>Leptothorax fortinodis var. gilva</mods:topic>
+      <mods:topic>Leptothorax arenarius</mods:topic>
+      <mods:topic>Leptothorax acervorum var. supera</mods:topic>
+      <mods:topic>Leptothorax acervorum subsp. canadensis</mods:topic>
+      <mods:topic>Leptothorax acervorum subsp. canadensis var. kincaidi</mods:topic>
+      <mods:topic>Myrmica laeviuscula</mods:topic>
+      <mods:topic>Myrmica lucidula</mods:topic>
+      <mods:topic>Ocymyrmex weitzeckeri var. micans</mods:topic>
+      <mods:topic>Ocymyrmex weitzeckeri subsp. arnoldi</mods:topic>
+      <mods:topic>Ocymyrmex weitzeckeri subsp. arnoldi var. abdominalis</mods:topic>
+      <mods:topic>Ocymyrmex weitzeckeri subsp. fortior</mods:topic>
+      <mods:topic>Rhoptromyrmex</mods:topic>
+      <mods:topic>Triglyphothrix areolata</mods:topic>
+      <mods:topic>Triglyphothrix auropunctata var. fusciventris</mods:topic>
+      <mods:topic>Triglyphothrix inezulae</mods:topic>
+      <mods:topic>Triglyphothrix pauper</mods:topic>
+      <mods:topic>Triglyphothrix ceramensis</mods:topic>
+      <mods:topic>Triglyphothrix fulviceps</mods:topic>
+      <mods:topic>Triglyphothrix obesa</mods:topic>
+      <mods:topic>Tetramorium caespitum</mods:topic>
+      <mods:topic>Tetramorium striativentre subsp. schneideri var. longispina</mods:topic>
+      <mods:topic>Tetramorium guineense subsp. peutli</mods:topic>
+      <mods:topic>Tetramorium simillimum subsp. isipingensis</mods:topic>
+      <mods:topic>Tetramorium aculeatum</mods:topic>
+      <mods:topic>Tetramorium aculeatum var. rubroflava</mods:topic>
+      <mods:topic>Tetramorium capense var. braunsi</mods:topic>
+      <mods:topic>Tetramorium grandinode var. hopensis</mods:topic>
+      <mods:topic>Tetramorium intextum</mods:topic>
+      <mods:topic>Tetramorium miserabile</mods:topic>
+      <mods:topic>Tetramorium pusillum subsp. mossamedensis var. tristis</mods:topic>
+      <mods:topic>Tetramorium semireticulatum</mods:topic>
+      <mods:topic>Tetramorium sericeiventre</mods:topic>
+      <mods:topic>Tetramorium sericeiventre var. arenaria</mods:topic>
+      <mods:topic>Tetramorium sericeiventre var. munda</mods:topic>
+      <mods:topic>Tetramorium sericeiventre var. vascoi</mods:topic>
+      <mods:topic>Tetramorium sericeiventre subsp. blochmanni</mods:topic>
+      <mods:topic>Tetramorium sericeiventre subsp. cinnamomea</mods:topic>
+      <mods:topic>Tetramorium sericeiventre subsp. femorata var. transversa</mods:topic>
+      <mods:topic>Tetramorium solidum var. signata</mods:topic>
+      <mods:topic>Tetramorium squaminode</mods:topic>
+      <mods:topic>Tetramorium squaminode subsp. do var. flaviceps</mods:topic>
+      <mods:topic>Tetramorium infraspinum</mods:topic>
+      <mods:topic>Tetramorium nursei</mods:topic>
+      <mods:topic>Tetramorium ornatum</mods:topic>
+      <mods:topic>Tetramorium pacificum subsp. validiuscula</mods:topic>
+      <mods:topic>Xiphomyrmex fossulatus</mods:topic>
+      <mods:topic>Xiphomyrmex marginatus</mods:topic>
+      <mods:topic>Xiphomyrmex muralti</mods:topic>
+      <mods:topic>Xiphomyrmex orbiceps</mods:topic>
+      <mods:topic>Xiphomyrmex severini</mods:topic>
+      <mods:topic>Xiphomyrmex sjÃ¶stedti</mods:topic>
+      <mods:topic>Xiphomyrmex smithi var. kanarensis</mods:topic>
+      <mods:topic>Xiphomyrmex tortuosus</mods:topic>
+      <mods:topic>Rhoptromyrmex globulinodis subsp. alberti</mods:topic>
+      <mods:topic>Rhoptromyrmex transversinodis</mods:topic>
+      <mods:topic>Rhoptromyrmex wroughtoni subsp. leno</mods:topic>
+      <mods:topic>Rhoptromyrmex wroughtoni subsp. rothneyi var. intermedia</mods:topic>
+      <mods:topic>Ochetomyrmicini</mods:topic>
+      <mods:topic>Wasmannia auropunctata var. atomum</mods:topic>
+      <mods:topic>Wasmannia auropunctata var. nigricans</mods:topic>
+      <mods:topic>Wasmannia rochai</mods:topic>
+      <mods:topic>Wasmannia sulcaticeps</mods:topic>
+      <mods:topic>Wasmannia sulcaticeps var. weiseri</mods:topic>
+      <mods:topic>Cataulacus egenus</mods:topic>
+      <mods:topic>Cataulacus egenus subsp. simplex</mods:topic>
+      <mods:topic>Cataulacus huberi subsp. herteri</mods:topic>
+      <mods:topic>Cataulacus kohli</mods:topic>
+      <mods:topic>Cataulacus micans</mods:topic>
+      <mods:topic>Cataulacus moquerisi</mods:topic>
+      <mods:topic>Cataulacus moquerisi var. nainei</mods:topic>
+      <mods:topic>Cataulacus parallelus</mods:topic>
+      <mods:topic>Cataulacus pullus var. orientalis</mods:topic>
+      <mods:topic>Cataulacus trï¿½gaordhi</mods:topic>
+      <mods:topic>Cataulacus trï¿½gaordhi var. ugandensis</mods:topic>
+      <mods:topic>Cataulacus brookei</mods:topic>
+      <mods:topic>Cephalotes</mods:topic>
+      <mods:topic>Procryptocerus ferreri</mods:topic>
+      <mods:topic>Procryptocerus mayri</mods:topic>
+      <mods:topic>Procryptocerus striatus var. odiosa</mods:topic>
+      <mods:topic>Cryptocerus hamulus var. haitianus</mods:topic>
+      <mods:topic>Cryptocerus haemorrhoidalis subsp. steinheili</mods:topic>
+      <mods:topic>Cryptocerus punctatus</mods:topic>
+      <mods:topic>Cryptocerus unimaculatus</mods:topic>
+      <mods:topic>Cryptocerus multispinosus</mods:topic>
+      <mods:topic>Cryptocerus d'orbignyanus</mods:topic>
+      <mods:topic>Cryptocerus liogaster</mods:topic>
+      <mods:topic>Cryptocerus notatus</mods:topic>
+      <mods:topic>Cryptocerus pinelii</mods:topic>
+      <mods:topic>Cryptocerus varians</mods:topic>
+      <mods:topic>Pentastruma</mods:topic>
+      <mods:topic>Daceton armigerum</mods:topic>
+      <mods:topic>Orectognathus sarasini</mods:topic>
+      <mods:topic>Strumigenys havilandi</mods:topic>
+      <mods:topic>Strumigenys sulfurea</mods:topic>
+      <mods:topic>Strumigenys doriae</mods:topic>
+      <mods:topic>Strumigenys ebbae</mods:topic>
+      <mods:topic>Strumigenys feae</mods:topic>
+      <mods:topic>Strumigenys kraepelini</mods:topic>
+      <mods:topic>Strumigenys loriae</mods:topic>
+      <mods:topic>Strumigenys cultrigera</mods:topic>
+      <mods:topic>Strumigenys elongata</mods:topic>
+      <mods:topic>Strumigenys fusca</mods:topic>
+      <mods:topic>Strumigenys saliens var. angusticeps</mods:topic>
+      <mods:topic>Strumigenys smithi var. inaequalis</mods:topic>
+      <mods:topic>Strumigenys subedentata</mods:topic>
+      <mods:topic>Strumigenys normandi</mods:topic>
+      <mods:topic>Strumigenys escherichi var. cliens</mods:topic>
+      <mods:topic>Strumigenys maynei</mods:topic>
+      <mods:topic>Strumigenys japonica</mods:topic>
+      <mods:topic>Strumigenys pergandei</mods:topic>
+      <mods:topic>Strumigenys schulzi</mods:topic>
+      <mods:topic>Strumigenys thaxteri</mods:topic>
+      <mods:topic>Epitritus argiolus</mods:topic>
+      <mods:topic>Epitritus clypeatus</mods:topic>
+      <mods:topic>Epitritus marginatus</mods:topic>
+      <mods:topic>Basiceros discigera</mods:topic>
+      <mods:topic>Rhopalothrix simoni var. wighti</mods:topic>
+      <mods:topic>Rhopalothrix simoni subsp. spei</mods:topic>
+      <mods:topic>Rhopalothrix ciliata</mods:topic>
+      <mods:topic>Rhopalothrix procera var. ballionii</mods:topic>
+      <mods:topic>Epopostruma turneri</mods:topic>
+      <mods:topic>Attini</mods:topic>
+      <mods:topic>Myrmicocrypta</mods:topic>
+      <mods:topic>Sericomyrmex</mods:topic>
+      <mods:topic>Atta</mods:topic>
+      <mods:topic>Myrmicocrypta corniculata</mods:topic>
+      <mods:topic>Myrmicocrypta foreli</mods:topic>
+      <mods:topic>Myrmicocrypta squamosa</mods:topic>
+      <mods:topic>Apterostigma calverti</mods:topic>
+      <mods:topic>Apterostigma mayri</mods:topic>
+      <mods:topic>Apterostigma scutellare</mods:topic>
+      <mods:topic>Sericomyrmex aztecus</mods:topic>
+      <mods:topic>Sericomyrmex scrobifer</mods:topic>
+      <mods:topic>Cyphomyrmex bicornis</mods:topic>
+      <mods:topic>Cyphomyrmex kirbyi</mods:topic>
+      <mods:topic>Cyphomyrmex rimosus subsp. minuta</mods:topic>
+      <mods:topic>Cyphomyrmex rimosus subsp. transversa</mods:topic>
+      <mods:topic>Cyphomyrmex emeryi</mods:topic>
+      <mods:topic>Cyphomyrmex emeryi var. arenicola</mods:topic>
+      <mods:topic>Cyphomyrmex simplex</mods:topic>
+      <mods:topic>Cyphomyrmex arizonensis</mods:topic>
+      <mods:topic>Cyphomyrmex desertorum</mods:topic>
+      <mods:topic>Cyphomyrmex diversus</mods:topic>
+      <mods:topic>Cyphomyrmex farinosus</mods:topic>
+      <mods:topic>Cyphomyrmex fiebrigi</mods:topic>
+      <mods:topic>Cyphomyrmex iheringi var. tucumana</mods:topic>
+      <mods:topic>Cyphomyrmex jamaicensis subsp. haytiana</mods:topic>
+      <mods:topic>Cyphomyrmex oetkeri</mods:topic>
+      <mods:topic>Cyphomyrmex septentrionalis subsp. obscurior var. irrorata</mods:topic>
+      <mods:topic>Cyphomyrmex septentrionalis subsp. obscurior var. seminole</mods:topic>
+      <mods:topic>Cyphomyrmex urichi</mods:topic>
+      <mods:topic>Cyphomyrmex urichi subsp. marthae</mods:topic>
+      <mods:topic>Acromyrmex ambiguus</mods:topic>
+      <mods:topic>Acromyrmex lundi var. bonariensis</mods:topic>
+      <mods:topic>Acromyrmex moelleri subsp. panamensis</mods:topic>
+      <mods:topic>Acromyrmex subterraneus var. brunnea</mods:topic>
+      <mods:topic>Acromyrmex subterraneus var. purensis</mods:topic>
+      <mods:topic>Moellerius</mods:topic>
+      <mods:topic>Acromyrmex heyeri</mods:topic>
+      <mods:topic>Atta laevigata</mods:topic>
+      <mods:topic>Myrmica aspersa</mods:topic>
+      <mods:topic>Myrmica caeca</mods:topic>
+      <mods:topic>Myrmica diligens</mods:topic>
+      <mods:topic>Myrmica diversa</mods:topic>
+      <mods:topic>Myrmica inflecta</mods:topic>
+      <mods:topic>Myrmica maligna</mods:topic>
+      <mods:topic>Myrmica opaca</mods:topic>
+      <mods:topic>Myrmica suspiciosa</mods:topic>
+      <mods:topic>Myrmica (Atta) sublanuginosa</mods:topic>
+      <mods:topic>Oecodoma pilosa</mods:topic>
+      <mods:topic>Cratomyrmex</mods:topic>
+      <mods:topic>Pheidolini</mods:topic>
+   </mods:subject>
+   <mods:identifier type="HNS-PUB">3897</mods:identifier>
+</mods:mods>

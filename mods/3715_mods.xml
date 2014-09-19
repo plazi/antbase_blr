@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+   <mods:titleInfo>
+      <mods:title>Fourmis d'Afrique et de Madagascar.</mods:title>
+   </mods:titleInfo>
+   <mods:name type="personal">
+				  <mods:role>
+				     <mods:roleTerm>Author</mods:roleTerm>
+				  </mods:role>
+				  <mods:namePart>Santschi, F.</mods:namePart>
+				</mods:name>
+   <mods:typeOfResource>text</mods:typeOfResource>
+   <mods:relatedItem type="host">
+      <mods:titleInfo>
+         <mods:title>Annales de la SociÃ©tÃ© Entomologique de Belgique</mods:title>
+      </mods:titleInfo>
+      <mods:part>
+         <mods:detail type="volume">
+            <mods:number>56</mods:number>
+         </mods:detail>
+         <mods:extent unit="page">
+            <mods:start>150</mods:start>
+            <mods:end>167</mods:end>
+         </mods:extent>
+         <mods:date>1912</mods:date>
+      </mods:part>
+   </mods:relatedItem>
+   <mods:subject>
+      <mods:topic>Dorylus (Anomma) Mayri</mods:topic>
+      <mods:topic>Leptogenys Saussurei st. acutirostris</mods:topic>
+      <mods:topic>Messor arenarius st. thebaicum</mods:topic>
+      <mods:topic>Dorylus (Anomma) Emeryi var. Pulsi</mods:topic>
+      <mods:topic>Dorylus (Anomma) Kohli var. minor</mods:topic>
+      <mods:topic>Dorylus (Anomma) nigricans st. Burmeisteri</mods:topic>
+      <mods:topic>Dorylus (Anomma) Burmeisteri var. rufescens</mods:topic>
+      <mods:topic>Dorylus (Anomma) nigricans st. Burmeisteri var. molesta</mods:topic>
+      <mods:topic>Polyrhachys</mods:topic>
+      <mods:topic>Pachycondyla (Bothroponera) sculpturata</mods:topic>
+      <mods:topic>Plectroctena minor var. dentata</mods:topic>
+      <mods:topic>Dorylus (Anomma) Kohli</mods:topic>
+      <mods:topic>Dorylus (Anomma) nigricans st. Burmeisteri var. rubella</mods:topic>
+      <mods:topic>Pachycondyla (Bothroponera) variolata</mods:topic>
+      <mods:topic>Sima foveolata st. maculifrons</mods:topic>
+      <mods:topic>Anomma</mods:topic>
+      <mods:topic>Monomorium bicolor</mods:topic>
+      <mods:topic>Dorylus (Anomma) nigricans</mods:topic>
+      <mods:topic>Pachycondyla (Bothroponera) asina</mods:topic>
+      <mods:topic>Dorylus (Anomma) opacus</mods:topic>
+      <mods:topic>Dorylus (Anomma) Wilwerthi</mods:topic>
+      <mods:topic>Dorylus (Anomma) nigricans st. Burmeisteri var. rufescens</mods:topic>
+      <mods:topic>Dorylus (Anomma) nigricans st. Burmeisteri var. hybrida</mods:topic>
+      <mods:topic>Polyrhachys militaris st. striativentris</mods:topic>
+      <mods:topic>Dorylus (Alaopone) montanus var. Bondroiti</mods:topic>
+      <mods:topic>Pheidole punctulata st. melancholica</mods:topic>
+      <mods:topic>Ponera ergatandria st. cognata</mods:topic>
+      <mods:topic>Dorylus (Anomma) nigricans st. arcens</mods:topic>
+      <mods:topic>Dorylus (Anomma) Emeryi</mods:topic>
+      <mods:topic>Dorylus (Anomma) nigricans st. Sjoestedti</mods:topic>
+      <mods:topic>Dorylus (Anomma) Burmeisteri var. molesta</mods:topic>
+      <mods:topic>Dorylus (Anomma) nigricans st. Burmeisteri var. pallida</mods:topic>
+      <mods:topic>Dorylus (Anomma) Burmeisteri var. hybrida</mods:topic>
+      <mods:topic>Dorylus (Anomma) Burmeisteri var. rubella</mods:topic>
+      <mods:topic>Dorylus (Anomma) Burmeisteri var. ornata</mods:topic>
+      <mods:topic>Lioponera Decorsei</mods:topic>
+      <mods:topic>Messor Plinii</mods:topic>
+      <mods:topic>Monomorium cristatum</mods:topic>
+      <mods:topic>Polyrhachys militaris st. bruta</mods:topic>
+      <mods:topic>Dorylus (Anomma) Gerstaekeri</mods:topic>
+      <mods:topic>Dorylus (Anomma) Kohli var. Congolensis</mods:topic>
+      <mods:topic>Dorylus (Anomma) Burmeisteri</mods:topic>
+   </mods:subject>
+   <mods:identifier type="HNS-PUB">3715</mods:identifier>
+</mods:mods>

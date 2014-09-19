@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+   <mods:titleInfo>
+      <mods:title>The ant Centromyrmex donisthorpei Menozzi, a synonym.</mods:title>
+   </mods:titleInfo>
+   <mods:name type="personal">
+				  <mods:role>
+				     <mods:roleTerm>Author</mods:roleTerm>
+				  </mods:role>
+				  <mods:namePart>Brown, W. L.</mods:namePart>
+				</mods:name>
+   <mods:typeOfResource>text</mods:typeOfResource>
+   <mods:relatedItem type="host">
+      <mods:titleInfo>
+         <mods:title>Psyche</mods:title>
+      </mods:titleInfo>
+      <mods:part>
+         <mods:detail type="volume">
+            <mods:number>62</mods:number>
+         </mods:detail>
+         <mods:extent unit="page">
+            <mods:start>103</mods:start>
+            <mods:end>103</mods:end>
+         </mods:extent>
+         <mods:date>1955</mods:date>
+      </mods:part>
+   </mods:relatedItem>
+   <mods:subject>
+      <mods:topic>Centromyrmex feae</mods:topic>
+      <mods:topic>Centromyrmex donisthorpei</mods:topic>
+   </mods:subject>
+   <mods:identifier type="HNS-PUB">6680</mods:identifier>
+</mods:mods>

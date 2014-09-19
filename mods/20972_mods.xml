@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+   <mods:titleInfo>
+      <mods:title>SistemÃ¡tica y filogenia de las hormigas: breve repaso a propuestas.</mods:title>
+      <mods:partNumber>1</mods:partNumber>
+   </mods:titleInfo>
+   <mods:typeOfResource>text</mods:typeOfResource>
+   <mods:name type="personal">
+				  <mods:role>
+				     <mods:roleTerm>Author</mods:roleTerm>
+				  </mods:role>
+				  <mods:namePart>FernÃ¡ndez, F.</mods:namePart>
+				</mods:name>
+					<mods:name type="personal">
+					<mods:role>
+					    <mods:roleTerm>Author</mods:roleTerm>
+					</mods:role>
+					<mods:namePart>Palacio, E. E.</mods:namePart>
+					</mods:name>
+   <mods:relatedItem type="host">
+      <mods:titleInfo>
+         <mods:title>IntroducciÃ³n a las hormigas de la regiÃ³n neotropical.</mods:title>
+      </mods:titleInfo>
+      <mods:name type="personal">
+         <mods:role>
+            <mods:roleTerm>Editor</mods:roleTerm>
+         </mods:role>
+         <mods:namePart>FernÃ¡ndez, F.</mods:namePart>
+      </mods:name>
+      <mods:originInfo>
+         <mods:dateIssued>2003</mods:dateIssued>
+         <mods:publisher>Instituto Humboldt</mods:publisher>
+         <mods:place>
+            <mods:placeTerm>BogotÃ¡</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:part>
+         <mods:extent unit="page">
+            <mods:start>29</mods:start>
+            <mods:end>44</mods:end>
+         </mods:extent>
+      </mods:part>
+   </mods:relatedItem>
+   <mods:identifier type="HNS-PUB">20972</mods:identifier>
+</mods:mods>

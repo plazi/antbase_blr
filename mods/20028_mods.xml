@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+   <mods:titleInfo>
+      <mods:title>A taxonomic revision of the Procryptocerus (Hymenoptera: Formicidae) of Central America.</mods:title>
+   </mods:titleInfo>
+   <mods:name type="personal">
+				  <mods:role>
+				     <mods:roleTerm>Author</mods:roleTerm>
+				  </mods:role>
+				  <mods:namePart>Longino, J. T.</mods:namePart>
+				</mods:name>
+					<mods:name type="personal">
+					<mods:role>
+					    <mods:roleTerm>Author</mods:roleTerm>
+					</mods:role>
+					<mods:namePart>Snelling, R. R.</mods:namePart>
+					</mods:name>
+   <mods:typeOfResource>text</mods:typeOfResource>
+   <mods:relatedItem type="host">
+      <mods:titleInfo>
+         <mods:title>Contributions in Science, Natural History Museum of Los Angeles County</mods:title>
+      </mods:titleInfo>
+      <mods:part>
+         <mods:detail type="volume">
+            <mods:number>495</mods:number>
+         </mods:detail>
+         <mods:extent unit="page">
+            <mods:start>1</mods:start>
+            <mods:end>30</mods:end>
+         </mods:extent>
+         <mods:date>2002</mods:date>
+      </mods:part>
+   </mods:relatedItem>
+   <mods:subject>
+      <mods:topic>Procryptocerus carbonarius var. laeviventris</mods:topic>
+      <mods:topic>Procryptocerus eladio</mods:topic>
+      <mods:topic>Procryptocerus kempfi</mods:topic>
+      <mods:topic>Procryptocerus tortuguero</mods:topic>
+      <mods:topic>Procryptocerus belti</mods:topic>
+      <mods:topic>Procryptocerus</mods:topic>
+      <mods:topic>Procryptocerus mayri reichenspergeri</mods:topic>
+      <mods:topic>Procryptocerus puncticeps r. impressus</mods:topic>
+      <mods:topic>Procryptocerus nalini</mods:topic>
+   </mods:subject>
+   <mods:identifier type="HNS-PUB">20028</mods:identifier>
+</mods:mods>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+   <mods:titleInfo>
+      <mods:title>The predaceous enemies of ants.</mods:title>
+   </mods:titleInfo>
+   <mods:name type="personal">
+				  <mods:role>
+				     <mods:roleTerm>Author</mods:roleTerm>
+				  </mods:role>
+				  <mods:namePart>Bequaert, J.</mods:namePart>
+				</mods:name>
+   <mods:typeOfResource>text</mods:typeOfResource>
+   <mods:relatedItem type="host">
+      <mods:titleInfo>
+         <mods:title>Bulletin of the American Museum of Natural History</mods:title>
+      </mods:titleInfo>
+      <mods:part>
+         <mods:detail type="volume">
+            <mods:number>45</mods:number>
+         </mods:detail>
+         <mods:extent unit="page">
+            <mods:start>271</mods:start>
+            <mods:end>331</mods:end>
+         </mods:extent>
+         <mods:date>1922</mods:date>
+      </mods:part>
+   </mods:relatedItem>
+   <mods:subject/>
+   <mods:identifier type="HNS-PUB">20598</mods:identifier>
+</mods:mods>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+   <mods:titleInfo>
+      <mods:title>British Oligocene ants.</mods:title>
+   </mods:titleInfo>
+   <mods:name type="personal">
+				  <mods:role>
+				     <mods:roleTerm>Author</mods:roleTerm>
+				  </mods:role>
+				  <mods:namePart>Donisthorpe, H. S. J. K.</mods:namePart>
+				</mods:name>
+   <mods:typeOfResource>text</mods:typeOfResource>
+   <mods:relatedItem type="host">
+      <mods:titleInfo>
+         <mods:title>Annals and Magazine of Natural History</mods:title>
+      </mods:titleInfo>
+      <mods:part>
+         <mods:detail type="volume">
+            <mods:number>(9)6</mods:number>
+         </mods:detail>
+         <mods:extent unit="page">
+            <mods:start>81</mods:start>
+            <mods:end>94</mods:end>
+         </mods:extent>
+         <mods:date>1920</mods:date>
+      </mods:part>
+   </mods:relatedItem>
+   <mods:subject>
+      <mods:topic>Dolichoderus vectensis</mods:topic>
+      <mods:topic>Emplastus emeryi</mods:topic>
+      <mods:topic>Camponotus (Colobopsis) brodiei</mods:topic>
+      <mods:topic>Dolichoderus ovigerus</mods:topic>
+      <mods:topic>Leucotaphus cockerelli</mods:topic>
+      <mods:topic>Emplastus</mods:topic>
+      <mods:topic>Leucotaphus</mods:topic>
+      <mods:topic>Oecophylla perdita</mods:topic>
+      <mods:topic>Leptothorax gurnetensis</mods:topic>
+      <mods:topic>Syntaphus</mods:topic>
+      <mods:topic>Dolichoderus britannicus</mods:topic>
+      <mods:topic>Oecophylla megarche</mods:topic>
+      <mods:topic>Ponera hypolitha</mods:topic>
+      <mods:topic>Dolichoderus gurnetensis</mods:topic>
+      <mods:topic>Euponera (Mesoponera) crawleyi</mods:topic>
+      <mods:topic>Leucotaphus gurnetensis</mods:topic>
+      <mods:topic>Ponera minuta</mods:topic>
+      <mods:topic>Syntaphus wheeleri</mods:topic>
+      <mods:topic>Dolichoderus anglicus</mods:topic>
+      <mods:topic>Oecophylla atavina</mods:topic>
+   </mods:subject>
+   <mods:identifier type="HNS-PUB">5756</mods:identifier>
+</mods:mods>

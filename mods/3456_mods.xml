@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+   <mods:titleInfo>
+      <mods:title>Studies of Neotropical ant-plants and their ants.</mods:title>
+   </mods:titleInfo>
+   <mods:name type="personal">
+				  <mods:role>
+				     <mods:roleTerm>Author</mods:roleTerm>
+				  </mods:role>
+				  <mods:namePart>Wheeler, W. M.</mods:namePart>
+				</mods:name>
+   <mods:typeOfResource>text</mods:typeOfResource>
+   <mods:relatedItem type="host">
+      <mods:titleInfo>
+         <mods:title>Bulletin of the Museum of Comparative Zoology of Harvard College</mods:title>
+      </mods:titleInfo>
+      <mods:part>
+         <mods:detail type="volume">
+            <mods:number>90</mods:number>
+         </mods:detail>
+         <mods:extent unit="page">
+            <mods:start>1</mods:start>
+            <mods:end>262</mods:end>
+         </mods:extent>
+         <mods:date>1942</mods:date>
+      </mods:part>
+   </mods:relatedItem>
+   <mods:subject>
+      <mods:topic>Azteca fasciata subsp. laeta</mods:topic>
+      <mods:topic>Iridomyrmex pordescens</mods:topic>
+      <mods:topic>Pseudomyrma belti subsp. fellosa</mods:topic>
+      <mods:topic>Pseudomyrma triplaridis subsp. tigrina</mods:topic>
+      <mods:topic>Brachymyrmex pictus subsp. balboae</mods:topic>
+      <mods:topic>Anochetus (Stenomyrmex) emarginatus</mods:topic>
+      <mods:topic>Pseudomyrma acanthobia</mods:topic>
+      <mods:topic>Pseudomyrma gebelli</mods:topic>
+      <mods:topic>Pseudomyrma sericea var. fortis</mods:topic>
+      <mods:topic>Pseudomyrma spinicola</mods:topic>
+      <mods:topic>Pseudomyrma spinicola subsp. gaigei</mods:topic>
+      <mods:topic>Pheidole cramptoni subsp. petiolicola</mods:topic>
+      <mods:topic>Crematogaster corvina</mods:topic>
+      <mods:topic>Crematogaster (Eucrema) acuta</mods:topic>
+      <mods:topic>Crematogaster (Orthocrema) brevispinosa var. minutior</mods:topic>
+      <mods:topic>Crematogaster (Orthocrema) distans</mods:topic>
+      <mods:topic>Crematogaster (Orthocrema) limata var. palans</mods:topic>
+      <mods:topic>Solenopsis helena subsp. ultrix</mods:topic>
+      <mods:topic>Cryptocerus (Cyathocephalus) varians</mods:topic>
+      <mods:topic>Azteca bicolor</mods:topic>
+      <mods:topic>Azteca coussapoae</mods:topic>
+      <mods:topic>Azteca longiceps subsp. sapii</mods:topic>
+      <mods:topic>Azteca nigella</mods:topic>
+      <mods:topic>Azteca tonduzi</mods:topic>
+      <mods:topic>Tapinoma atriceps var. breviscapa</mods:topic>
+      <mods:topic>Myrmelachista (Decamera) schumanni</mods:topic>
+      <mods:topic>Camponotus (Myrmobrachys) planatus var. continentis</mods:topic>
+      <mods:topic>Camponotus (Myrmobrachys) vezenyi</mods:topic>
+      <mods:topic>Azteca constructor var. guianae</mods:topic>
+      <mods:topic>Crematogaster (Orthocrema) curvispinosa var. panamana</mods:topic>
+      <mods:topic>Pseudomyrma alliodorae</mods:topic>
+      <mods:topic>Pseudomyrma belti subsp. bequaerti</mods:topic>
+      <mods:topic>Pseudomyrma latinoda subsp. bradleyi</mods:topic>
+      <mods:topic>Pseudomyrma sericea var. acaciarum</mods:topic>
+      <mods:topic>Neoponera carinulata</mods:topic>
+      <mods:topic>Odontomachus hastatus</mods:topic>
+      <mods:topic>Pseudomyrma acanthobia var. fuscata</mods:topic>
+      <mods:topic>Pseudomyrma gracilis subsp. mexicana</mods:topic>
+      <mods:topic>Pseudomyrma latinoda var. endophyta</mods:topic>
+      <mods:topic>Pseudomyrma nigrocincta</mods:topic>
+      <mods:topic>Pseudomyrma sericea var. longior</mods:topic>
+      <mods:topic>Pheidole gauthieri var. oxymora</mods:topic>
+      <mods:topic>Pheidole minutula</mods:topic>
+      <mods:topic>Crematogaster sanguinea subsp. lucayana var. etiolata</mods:topic>
+      <mods:topic>Crematogaster (Orthocrema) laevis</mods:topic>
+      <mods:topic>Crematogaster (Orthocrema) sculpturata</mods:topic>
+      <mods:topic>Crematogaster (Orthocrema) virgula</mods:topic>
+      <mods:topic>Allomerus decemarticulatus subsp. octoarticulatus var. demerarae</mods:topic>
+      <mods:topic>Allomerus decemarticulatus subsp. octoarticulatus var. angulatus</mods:topic>
+      <mods:topic>Allomerus decemarticulatus subsp. septemarticulatus</mods:topic>
+      <mods:topic>Solenopsis picea</mods:topic>
+      <mods:topic>Cryptocerus grandinosus</mods:topic>
+      <mods:topic>Cryptocerus quadratus</mods:topic>
+      <mods:topic>Cryptocerus scutulatus</mods:topic>
+      <mods:topic>Dolichoderus (Hypoclinea) championi subsp. trinidadensis var. taeniatus</mods:topic>
+      <mods:topic>Dolichoderus (Monacis) bispinosus</mods:topic>
+      <mods:topic>Azteca angusticeps</mods:topic>
+      <mods:topic>Azteca delpini var. trinidadensis</mods:topic>
+      <mods:topic>Azteca duroiae</mods:topic>
+      <mods:topic>Azteca foveiceps</mods:topic>
+      <mods:topic>Azteca longiceps subsp. juruensis</mods:topic>
+      <mods:topic>Azteca longiceps subsp. patruelis</mods:topic>
+      <mods:topic>Azteca luederwaldti</mods:topic>
+      <mods:topic>Azteca sericea</mods:topic>
+      <mods:topic>Azteca ulei var. gibbifera</mods:topic>
+      <mods:topic>Azteca velox subsp. nigriventris</mods:topic>
+      <mods:topic>Brachymyrmex heeri var. obscurior</mods:topic>
+      <mods:topic>Camponotus (Myrmothrix) abdominalis var. costaricensis</mods:topic>
+      <mods:topic>Camponotus (Myrmothrix) abdominalis</mods:topic>
+      <mods:topic>Camponotus (Myrmothrix) rufipes subsp. ringgeri</mods:topic>
+      <mods:topic>Camponotus (Myrmobrachys) brettesi</mods:topic>
+      <mods:topic>Azteca alfari var. langi</mods:topic>
+      <mods:topic>Azteca xanthochroa subsp. isthmica</mods:topic>
+      <mods:topic>Pseudomyrma latinoda var. coronata</mods:topic>
+      <mods:topic>Pseudomyrma spinicola subsp. infernalis</mods:topic>
+      <mods:topic>Azteca ulei var. gagatina</mods:topic>
+      <mods:topic>Pseudomyrma belti subsp. fulvescens</mods:topic>
+      <mods:topic>Pseudomyrma chodati</mods:topic>
+      <mods:topic>Pseudomyrma damnosa</mods:topic>
+      <mods:topic>Pseudomyrma kuenckeli</mods:topic>
+      <mods:topic>Pseudomyrma latinoda subsp. opacior</mods:topic>
+      <mods:topic>Pseudomyrma nigropilosa</mods:topic>
+      <mods:topic>Pseudomyrma spinicola subsp. atrox</mods:topic>
+      <mods:topic>Pseudomyrma triplaridis</mods:topic>
+      <mods:topic>Pseudomyrma triplarina var. cordobensis</mods:topic>
+      <mods:topic>Pheidole minutula subsp. folicola</mods:topic>
+      <mods:topic>Allomerus decemarticulatus subsp. octoarticulatus var. exsanguis</mods:topic>
+      <mods:topic>Cryptocerus (Paracryptocerus) cordiae</mods:topic>
+      <mods:topic>Forelius maccooki var. brasiliensis</mods:topic>
+      <mods:topic>Azteca alfari subsp. cecropiae</mods:topic>
+      <mods:topic>Azteca delpini</mods:topic>
+      <mods:topic>Azteca instabilis</mods:topic>
+      <mods:topic>Azteca lanuginosa</mods:topic>
+      <mods:topic>Azteca muelleri</mods:topic>
+      <mods:topic>Azteca pittieri var. emarginatisquamis</mods:topic>
+      <mods:topic>Azteca theresiae var. menceps</mods:topic>
+      <mods:topic>Tapinoma ramulorum subsp. inrectum</mods:topic>
+      <mods:topic>Prenolepis (Paratrechina) longicornis</mods:topic>
+      <mods:topic>Camponotus (Myrmobrachys) brevis</mods:topic>
+      <mods:topic>Camponotus (Hypercolobopsis) christopherseni</mods:topic>
+      <mods:topic>Azteca xanthochroa subsp. australis</mods:topic>
+      <mods:topic>Azteca xanthochroa var. costaricensis</mods:topic>
+      <mods:topic>Camponotus (Paracolobopsis) patimae</mods:topic>
+      <mods:topic>Pseudomyrma belti subsp. venefica</mods:topic>
+      <mods:topic>Pseudomyrma picta subsp. casta</mods:topic>
+      <mods:topic>Pseudomyrma spinicola subsp. scelerosa</mods:topic>
+      <mods:topic>Neoponera stipitum</mods:topic>
+      <mods:topic>Pseudomyrma elongata</mods:topic>
+      <mods:topic>Pseudomyrma gracilis var. bicolor</mods:topic>
+      <mods:topic>Pseudomyrma maligna</mods:topic>
+      <mods:topic>Pseudomyrma sericea var. cordiae</mods:topic>
+      <mods:topic>Pseudomyrma sericea var. rubiginosa</mods:topic>
+      <mods:topic>Pseudomyrma triplarina subsp. symbiotica</mods:topic>
+      <mods:topic>Pheidole</mods:topic>
+      <mods:topic>Pheidole (Hendecapheidole) tachigaliae</mods:topic>
+      <mods:topic>Crematogaster (Orthocrema) brevispinosa</mods:topic>
+      <mods:topic>Crematogaster (Orthocrema) brevispinosa subsp. tumulifera</mods:topic>
+      <mods:topic>Crematogaster (Orthocrema) montezumia var. sulcata</mods:topic>
+      <mods:topic>Monomorium floricola</mods:topic>
+      <mods:topic>Allomerus decemarticulatus subsp. octoarticulatus var. melanoticus</mods:topic>
+      <mods:topic>Solenopsis corticalis subsp. amazonensis</mods:topic>
+      <mods:topic>Solenopsis helena subsp. hermione</mods:topic>
+      <mods:topic>Leptothorax (Goniothorax) echinatinodis subsp. dalmasi</mods:topic>
+      <mods:topic>Leptothorax (Goniothorax) echinatinodis subsp. spininodis</mods:topic>
+      <mods:topic>Cryptocerus</mods:topic>
+      <mods:topic>Cryptocerus (Paracryptocerus) complanatus subsp. ramiphilus</mods:topic>
+      <mods:topic>Iridomyrmex iniquus var. nigellus</mods:topic>
+      <mods:topic>Forelius maccooki subsp. fiebrigi</mods:topic>
+      <mods:topic>Azteca alfari var. fumaticeps</mods:topic>
+      <mods:topic>Azteca alfari subsp. lucida</mods:topic>
+      <mods:topic>Azteca coeruleipennis</mods:topic>
+      <mods:topic>Azteca depilis</mods:topic>
+      <mods:topic>Azteca foreli subsp. ursina</mods:topic>
+      <mods:topic>Azteca minor</mods:topic>
+      <mods:topic>Azteca muelleri var. wacketi</mods:topic>
+      <mods:topic>Azteca tachigaliae</mods:topic>
+      <mods:topic>Azteca trigona</mods:topic>
+      <mods:topic>Azteca ulei subsp. rossi</mods:topic>
+      <mods:topic>Prenolepis (Nylanderia) fulva</mods:topic>
+      <mods:topic>Myrmelachista (Decamera) bambusarum</mods:topic>
+      <mods:topic>Myrmelachista (Decamera) nodigera var. flavicornis</mods:topic>
+      <mods:topic>Myrmelachista (Decamera) paderewskii</mods:topic>
+      <mods:topic>Myrmelachista (Decamera) schumanni var. cordincola</mods:topic>
+      <mods:topic>Myrmelachista (Decamera) zeledoni</mods:topic>
+      <mods:topic>Camponotus (Tanaemyrmex) bonariensis</mods:topic>
+      <mods:topic>Neomyrmaniblys</mods:topic>
+      <mods:topic>Camponotus (Myrmobrachys) canescens</mods:topic>
+      <mods:topic>Camponotus (Myrmobrachys) pittieri var. poenalis</mods:topic>
+      <mods:topic>Camponotus (Myrmocladoecus) bidens</mods:topic>
+      <mods:topic>Camponotus (Myrmocladoecus) rectangularis</mods:topic>
+      <mods:topic>Pseudomyrma triplaridis subsp. boxi</mods:topic>
+      <mods:topic>Solenopsis zeteki</mods:topic>
+      <mods:topic>Allomerus decemarticulatus subsp. novemarticulatus</mods:topic>
+      <mods:topic>Azteca brevicornis var. boliviana</mods:topic>
+      <mods:topic>Pseudomyrma picta var. heterogyna</mods:topic>
+      <mods:topic>Pseudomyrma dendroica</mods:topic>
+      <mods:topic>Pseudomyrma fiebrigi</mods:topic>
+      <mods:topic>Crematogaster sanguinea subsp. lucayana</mods:topic>
+      <mods:topic>Crematogaster (Orthocrema) arizonensis</mods:topic>
+      <mods:topic>Crematogaster (Orthocrema) atra</mods:topic>
+      <mods:topic>Crematogaster (Orthocrema) brasiliensis</mods:topic>
+      <mods:topic>Crematogaster (Orthocrema) brasiliensis var. ludio</mods:topic>
+      <mods:topic>Crematogaster (Orthocrema) limata</mods:topic>
+      <mods:topic>Cryptocerus aztecus</mods:topic>
+      <mods:topic>Cryptocerus (Cyathocephalus) setulifer</mods:topic>
+      <mods:topic>Cryptocerus (Cyathocephalus) varians subsp. marginatus</mods:topic>
+      <mods:topic>Dolichoderus (Hypoclinea) lutosus</mods:topic>
+      <mods:topic>Azteca alfari var. curtiscapa</mods:topic>
+      <mods:topic>Azteca alfari var. mixta</mods:topic>
+      <mods:topic>Azteca alfari subsp. lucidula var. zonalis</mods:topic>
+      <mods:topic>Azteca brevicornis</mods:topic>
+      <mods:topic>Azteca hypophylla</mods:topic>
+      <mods:topic>Azteca longiceps</mods:topic>
+      <mods:topic>Azteca schumanni</mods:topic>
+      <mods:topic>Azteca tonduzi subsp. mathildae var. spuria</mods:topic>
+      <mods:topic>Azteca tonduzi subsp. mediops</mods:topic>
+      <mods:topic>Azteca velox</mods:topic>
+      <mods:topic>Azteca virens</mods:topic>
+      <mods:topic>Tapinoma littorale var. cubaï¿½nsis</mods:topic>
+      <mods:topic>Brachymyrmex heeri var. basalis</mods:topic>
+      <mods:topic>Camponotus (Myrmoturba) ulei</mods:topic>
+      <mods:topic>Camponotus (Myrmothrix) femoratus</mods:topic>
+      <mods:topic>Camponotus (Myrmothrix) lutzi</mods:topic>
+      <mods:topic>Camponotus (Hypercolobopsis) paradoxus subsp. janitor</mods:topic>
+      <mods:topic>Pseudomyrma belti subsp. vesana</mods:topic>
+      <mods:topic>Pseudomyrma triplaridis subsp. baileyi</mods:topic>
+      <mods:topic>Pseudomyrma triplarina var. rurrenabaquensis</mods:topic>
+      <mods:topic>Pseudomyrma belti subsp. wasmanni</mods:topic>
+      <mods:topic>Pseudomyrma gracilis</mods:topic>
+      <mods:topic>Pseudomyrma latinoda</mods:topic>
+      <mods:topic>Pseudomyrma maligna var. cholerica</mods:topic>
+      <mods:topic>Pseudomyrma maligna var. crucians</mods:topic>
+      <mods:topic>Pseudomyrma sericea</mods:topic>
+      <mods:topic>Pseudomyrma spinicola subsp. convarians</mods:topic>
+      <mods:topic>Pseudomyrma subtilissima</mods:topic>
+      <mods:topic>Crematogaster (Orthocrema) armandi</mods:topic>
+      <mods:topic>Crematogaster (Orthocrema) brevispinosa var. ampla</mods:topic>
+      <mods:topic>Crematogaster (Orthocrema) goeldii var. chodati</mods:topic>
+      <mods:topic>Crematogaster (Orthocrema) sumichrasti</mods:topic>
+      <mods:topic>Monomorium carbonarium subsp. ebeninum</mods:topic>
+      <mods:topic>Allomerus decemarticulatus</mods:topic>
+      <mods:topic>Solenopsis corticalis</mods:topic>
+      <mods:topic>Cryptocerus bohlsi</mods:topic>
+      <mods:topic>Cryptocerus eduarduli</mods:topic>
+      <mods:topic>Cryptocerus pilosus</mods:topic>
+      <mods:topic>Cryptocerus wheeleri</mods:topic>
+      <mods:topic>Cryptocerus (Paracryptocerus) pusillus</mods:topic>
+      <mods:topic>Cryptocerus (Cyathocephalus) pallens var. discocephalus</mods:topic>
+      <mods:topic>Dolichoderus (Hypoclinea) bituberculatus</mods:topic>
+      <mods:topic>Dolichoderus (Monacis) debilis var. rufescens</mods:topic>
+      <mods:topic>Azteca alfari</mods:topic>
+      <mods:topic>Azteca alfari var. aequilata</mods:topic>
+      <mods:topic>Azteca alfari subsp. lucidula</mods:topic>
+      <mods:topic>Azteca foreli var. xysticola</mods:topic>
+      <mods:topic>Azteca huberi</mods:topic>
+      <mods:topic>Azteca stanleyula</mods:topic>
+      <mods:topic>Azteca theresiae</mods:topic>
+      <mods:topic>Azteca traili subsp. tococae var. elatior</mods:topic>
+      <mods:topic>Tapinoma melanocephalum</mods:topic>
+      <mods:topic>Camponotus (Neomyrmaniblys) novogrenadensis</mods:topic>
+      <mods:topic>Camponotus (Myrmocladoecus) striatus subsp. alfaroi</mods:topic>
+      <mods:topic>Camponotus (Myrmocladoecus) rectangularis var. rubroniger</mods:topic>
+      <mods:topic>Azteca prorsa</mods:topic>
+      <mods:topic>Azteca traili var. tillandsiarum</mods:topic>
+      <mods:topic>Camponotus (Paracolobopsis) patimae var. dolentulus</mods:topic>
+      <mods:topic>Cryptocerus (Cyathocephalus) pallens var. porrasi</mods:topic>
+      <mods:topic>Leptothorax (Goniothorax) echinatinodis subsp. cordincola</mods:topic>
+      <mods:topic>Pseudomyrma belti subsp. saffordi</mods:topic>
+      <mods:topic>Neoponera crenata</mods:topic>
+      <mods:topic>Neoponera unidentata</mods:topic>
+      <mods:topic>Neoponera villosa</mods:topic>
+      <mods:topic>Pseudomyrma caroli var. sapii</mods:topic>
+      <mods:topic>Pseudomyrma elongata var. tandem</mods:topic>
+      <mods:topic>Pseudomyrma latinoda var. nigrescens</mods:topic>
+      <mods:topic>Pseudomyrma sericea var. ita</mods:topic>
+      <mods:topic>Pseudomyrma triplarina</mods:topic>
+      <mods:topic>Pseudomyrma triplarina subsp. symbiotica var. loewensohni</mods:topic>
+      <mods:topic>Pseudomyrma ulei</mods:topic>
+      <mods:topic>Pheidole lutzi</mods:topic>
+      <mods:topic>Crematogaster (Orthocrema) arcuata var. aruga</mods:topic>
+      <mods:topic>Crematogaster (Orthocrema) lutzi</mods:topic>
+      <mods:topic>Xenomyrmex stolli subsp. florieanus var. lucayanus</mods:topic>
+      <mods:topic>Allomerus decemarticulatus subsp. octoarticulatus</mods:topic>
+      <mods:topic>Allomerus decemarticulatus subsp. octoarticulatus var. tuberculatus</mods:topic>
+      <mods:topic>Macromischa petiolata</mods:topic>
+      <mods:topic>Leptothorax (Goniothorax) echinatinodis subsp. aculeatinodis var. pleuriticus</mods:topic>
+      <mods:topic>Wasmannia auropunctata</mods:topic>
+      <mods:topic>Cephalotes atratus</mods:topic>
+      <mods:topic>Cryptocerus peltatus</mods:topic>
+      <mods:topic>Cryptocerus rohweri</mods:topic>
+      <mods:topic>Cryptocerus (Paracryptocerus) minutus</mods:topic>
+      <mods:topic>Cryptocerus (Cyathocephalus) pallens</mods:topic>
+      <mods:topic>Azteca alfari var. aequalis</mods:topic>
+      <mods:topic>Azteca alfari var. ovaticeps</mods:topic>
+      <mods:topic>Azteca constructor</mods:topic>
+      <mods:topic>Azteca emeryi</mods:topic>
+      <mods:topic>Azteca foreli subsp. championi var. breviscapa</mods:topic>
+      <mods:topic>Azteca longiceps subsp. cordincola</mods:topic>
+      <mods:topic>Azteca ulei subsp. nigricornis</mods:topic>
+      <mods:topic>Tapinoma littorale</mods:topic>
+      <mods:topic>Brachymyrmex heeri</mods:topic>
+      <mods:topic>Camponotus (Myrmoturba) melanoticus var. hagmanni</mods:topic>
+      <mods:topic>Camponotus (Myrmobrachys) lindigi</mods:topic>
+      <mods:topic>Camponotus (Myrmobrachys) zoc</mods:topic>
+      <mods:topic>Tapinoma canalis</mods:topic>
+      <mods:topic>Pseudomyrma satanica</mods:topic>
+      <mods:topic>Odontomachus affinis subsp. mayri</mods:topic>
+      <mods:topic>Pseudomyrma belti</mods:topic>
+      <mods:topic>Pseudomyrma dendroica var. emarginata</mods:topic>
+      <mods:topic>Pseudomyrma latinoda subsp. tachigaliae</mods:topic>
+      <mods:topic>Pseudomyrma picta</mods:topic>
+      <mods:topic>Pseudomyrma tenuis</mods:topic>
+      <mods:topic>Crematogaster (Orthocrema) delitescens</mods:topic>
+      <mods:topic>Crematogaster (Orthocrema) limata subsp. parabiotica</mods:topic>
+      <mods:topic>Solenopsis tenuis</mods:topic>
+      <mods:topic>Leptothorax (Goniothorax) umbratilis</mods:topic>
+      <mods:topic>Apterostigma calverti</mods:topic>
+      <mods:topic>Azteca alfari subsp. tuberosa</mods:topic>
+      <mods:topic>Azteca duckei</mods:topic>
+      <mods:topic>Azteca foreli</mods:topic>
+      <mods:topic>Azteca goeldii</mods:topic>
+      <mods:topic>Azteca olitrix</mods:topic>
+      <mods:topic>Azteca pittieri</mods:topic>
+      <mods:topic>Azteca traili</mods:topic>
+      <mods:topic>Azteca traili subsp. tococae</mods:topic>
+      <mods:topic>Azteca ulei</mods:topic>
+      <mods:topic>Azteca ulei var. cordiae</mods:topic>
+      <mods:topic>Azteca xanthochroa</mods:topic>
+      <mods:topic>Azteca xanthochroa subsp. salti</mods:topic>
+      <mods:topic>Tapinoma atriceps</mods:topic>
+      <mods:topic>Myrmelachista ambigua subsp. ramulorum</mods:topic>
+      <mods:topic>Myrmelachista (Decamera) nigella</mods:topic>
+      <mods:topic>Myrmelachista (Decamera) ulei</mods:topic>
+      <mods:topic>Camponotus (Myrmocladoecus) mucronatus</mods:topic>
+   </mods:subject>
+   <mods:identifier type="HNS-PUB">3456</mods:identifier>
+</mods:mods>

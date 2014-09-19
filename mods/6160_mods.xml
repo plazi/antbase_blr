@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+   <mods:titleInfo>
+      <mods:title>Another new Leptothorax from Texas (Hymenoptera: Formicidae).</mods:title>
+   </mods:titleInfo>
+   <mods:name type="personal">
+				  <mods:role>
+				     <mods:roleTerm>Author</mods:roleTerm>
+				  </mods:role>
+				  <mods:namePart>Cole, A. C.</mods:namePart>
+				</mods:name>
+   <mods:typeOfResource>text</mods:typeOfResource>
+   <mods:relatedItem type="host">
+      <mods:titleInfo>
+         <mods:title>Journal of the Tennessee Academy of Science</mods:title>
+      </mods:titleInfo>
+      <mods:part>
+         <mods:detail type="volume">
+            <mods:number>32</mods:number>
+         </mods:detail>
+         <mods:extent unit="page">
+            <mods:start>213</mods:start>
+            <mods:end>215</mods:end>
+         </mods:extent>
+         <mods:date>1957</mods:date>
+      </mods:part>
+   </mods:relatedItem>
+   <mods:subject>
+      <mods:topic>Leptothorax (Leptothorax) carinatus</mods:topic>
+   </mods:subject>
+   <mods:identifier type="HNS-PUB">6160</mods:identifier>
+</mods:mods>

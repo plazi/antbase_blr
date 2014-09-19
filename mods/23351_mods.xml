@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+   <mods:titleInfo>
+      <mods:title>Overwintering and cold-hardiness of ants in the Northeast of Asia</mods:title>
+   </mods:titleInfo>
+   <mods:name type="personal">
+	     <mods:role>
+	        <mods:roleTerm>Author</mods:roleTerm>
+	     </mods:role>
+	     <mods:namePart>Berman, D.I.</mods:namePart>
+	  </mods:name>
+	  <mods:name type="personal">
+	     <mods:role>
+	        <mods:roleTerm>Author</mods:roleTerm>
+	     </mods:role>
+	     <mods:namePart>Alfimov, A.V.</mods:namePart>
+	  </mods:name>
+	  <mods:name type="personal">
+	     <mods:role>
+	        <mods:roleTerm>Author</mods:roleTerm>
+	     </mods:role>
+	     <mods:namePart>Zhigul'skaya, Z. A.</mods:namePart>
+	  </mods:name>
+	  <mods:name type="personal">
+	     <mods:role>
+	        <mods:roleTerm>Author</mods:roleTerm>
+	     </mods:role>
+	     <mods:namePart>Leirikh, A.N.</mods:namePart>
+	  </mods:name>
+   <mods:originInfo>
+      <mods:dateIssued>2010</mods:dateIssued>
+      <mods:publisher>Pensoft</mods:publisher>
+      <mods:place>
+         <mods:placeTerm type="text">Sofia</mods:placeTerm>
+      </mods:place>
+   </mods:originInfo>
+   <mods:subject>
+      <mods:topic>Formicidae</mods:topic>
+   </mods:subject>
+   <mods:identifier type="HNS-PUB">23351</mods:identifier>
+</mods:mods>

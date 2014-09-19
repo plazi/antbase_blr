@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+   <mods:titleInfo>
+      <mods:title>The identity of Andragnathus, a forgotten formicine ant genus (Hym., Formicidae).</mods:title>
+   </mods:titleInfo>
+   <mods:name type="personal">
+				  <mods:role>
+				     <mods:roleTerm>Author</mods:roleTerm>
+				  </mods:role>
+				  <mods:namePart>Agosti, D.</mods:namePart>
+				</mods:name>
+					<mods:name type="personal">
+					<mods:role>
+					    <mods:roleTerm>Author</mods:roleTerm>
+					</mods:role>
+					<mods:namePart>Bolton, B.</mods:namePart>
+					</mods:name>
+   <mods:typeOfResource>text</mods:typeOfResource>
+   <mods:relatedItem type="host">
+      <mods:titleInfo>
+         <mods:title>Entomologists Monthly Magazine</mods:title>
+      </mods:titleInfo>
+      <mods:part>
+         <mods:detail type="volume">
+            <mods:number>126</mods:number>
+         </mods:detail>
+         <mods:extent unit="page">
+            <mods:start>75</mods:start>
+            <mods:end>77</mods:end>
+         </mods:extent>
+         <mods:date>1990</mods:date>
+      </mods:part>
+   </mods:relatedItem>
+   <mods:subject/>
+   <mods:identifier type="HNS-PUB">6854</mods:identifier>
+</mods:mods>

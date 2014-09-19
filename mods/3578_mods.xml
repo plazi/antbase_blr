@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+   <mods:titleInfo>
+      <mods:title>Contribution Ã  l'Ã©tude des Crematogaster palÃ©arctiques.</mods:title>
+   </mods:titleInfo>
+   <mods:name type="personal">
+				  <mods:role>
+				     <mods:roleTerm>Author</mods:roleTerm>
+				  </mods:role>
+				  <mods:namePart>Santschi, F.</mods:namePart>
+				</mods:name>
+   <mods:typeOfResource>text</mods:typeOfResource>
+   <mods:relatedItem type="host">
+      <mods:titleInfo>
+         <mods:title>Memoires de la SociÃ©tÃ© Vaudoise des Sciences Naturelles</mods:title>
+      </mods:titleInfo>
+      <mods:part>
+         <mods:detail type="volume">
+            <mods:number>5</mods:number>
+         </mods:detail>
+         <mods:extent unit="page">
+            <mods:start>295</mods:start>
+            <mods:end>317</mods:end>
+         </mods:extent>
+         <mods:date>1937</mods:date>
+      </mods:part>
+   </mods:relatedItem>
+   <mods:subject>
+      <mods:topic>Crematogaster (Acrocoelia) auberti st. regilla</mods:topic>
+      <mods:topic>Crematogaster (Acrocoelia) inermis var. aphrodite</mods:topic>
+      <mods:topic>Crematogaster treubi</mods:topic>
+      <mods:topic>Crematogaster sordidula var. marocana</mods:topic>
+      <mods:topic>Crematogaster alluaudi</mods:topic>
+      <mods:topic>Crematogaster scutellaris</mods:topic>
+      <mods:topic>Crematogaster scutellaris st. smidti var. tenuispina</mods:topic>
+      <mods:topic>Crematogaster auberti var. nigripes</mods:topic>
+      <mods:topic>Crematogaster auberti st. fuentei var. dusmeti</mods:topic>
+      <mods:topic>Crematogaster laestrygon var. normandi</mods:topic>
+      <mods:topic>Crematogaster (Acrocoelia) auberti</mods:topic>
+      <mods:topic>Crematogaster (Acrocoelia) laestrygon var. striaticeps</mods:topic>
+      <mods:topic>Crematogaster flavicornis</mods:topic>
+      <mods:topic>Crematogaster aegyptica st. senegalensis var. targuia</mods:topic>
+      <mods:topic>Crematogaster auberti var. savinae</mods:topic>
+      <mods:topic>Crematogaster auberti var. vogti</mods:topic>
+      <mods:topic>Crematogaster auberti st. antaris var. sordida</mods:topic>
+      <mods:topic>Crematogaster laestrygon var. striaticeps</mods:topic>
+      <mods:topic>Crematogaster laestrygon st. vaucheri var. boetica</mods:topic>
+      <mods:topic>Crematogaster laestrygon st. aï¿½rensis</mods:topic>
+      <mods:topic>Crematogaster (Acrocoelia) inermis</mods:topic>
+      <mods:topic>Crematogaster (Acrocoelia) laestrygon var. vivax</mods:topic>
+      <mods:topic>Crematogaster auberti st. fuentei</mods:topic>
+      <mods:topic>Crematogaster auberti st. laevithorax var. melancholica</mods:topic>
+      <mods:topic>Crematogaster auberti st. regilla</mods:topic>
+      <mods:topic>Crematogaster laestrygon</mods:topic>
+      <mods:topic>Crematogaster laestrygon st. vaucheri</mods:topic>
+      <mods:topic>Crematogaster (Acrocoelia) oasium st. saharensis</mods:topic>
+      <mods:topic>Crematogaster (Acrocoelia) laestrygon</mods:topic>
+      <mods:topic>Crematogaster (Acrocoelia) laestrygon st. theryi</mods:topic>
+      <mods:topic>Crematogaster oasium st. saharensis</mods:topic>
+      <mods:topic>Crematogaster scutellaris smidti var. atratula</mods:topic>
+      <mods:topic>Crematogaster scutellaris st. smidti</mods:topic>
+      <mods:topic>Crematogaster scutellaris st. smidti var. alii</mods:topic>
+      <mods:topic>Crematogaster auberti</mods:topic>
+      <mods:topic>Crematogaster laestrygon var. canariensis</mods:topic>
+      <mods:topic>Crematogaster laestrygon var. dimidiata</mods:topic>
+      <mods:topic>Crematogaster laestrygon var. vivax</mods:topic>
+      <mods:topic>Crematogaster lorteti</mods:topic>
+      <mods:topic>Crematogaster (Acrocoelia) auberti st. laevithorax</mods:topic>
+      <mods:topic>Crematogaster (Acrocoelia) auberti st. laevithorax var. melancholica</mods:topic>
+      <mods:topic>Crematogaster (Acrocoelia) oasium</mods:topic>
+      <mods:topic>Crematogaster (Acrocoelia) laestrygon var. vaucheri</mods:topic>
+      <mods:topic>Crematogaster inermis var. aphrodite</mods:topic>
+      <mods:topic>Crematogaster scutellaris var. lichtensteini</mods:topic>
+      <mods:topic>Crematogaster scutellaris st. smidti var. degener</mods:topic>
+      <mods:topic>Crematogaster auberti st. antaris</mods:topic>
+      <mods:topic>Crematogaster laestrygon st. surcoufi</mods:topic>
+      <mods:topic>Crematogaster phoenica var. pygmalion</mods:topic>
+      <mods:topic>Crematogaster (Acrocoelia) inermis var. lucida</mods:topic>
+      <mods:topic>Crematogaster (Acrocoelia) laestrygon var. granulata</mods:topic>
+      <mods:topic>Crematogaster (Mesocrema) karavaiewi</mods:topic>
+      <mods:topic>Crematogaster jacobsoni</mods:topic>
+      <mods:topic>Crematogaster millardi</mods:topic>
+      <mods:topic>Crematogaster inermis var. lucida</mods:topic>
+      <mods:topic>Crematogaster scutellaris smidti var. ionia</mods:topic>
+      <mods:topic>Crematogaster scutellaris var. grouvellei</mods:topic>
+      <mods:topic>Crematogaster scutellaris st. smidti var. hybrida</mods:topic>
+      <mods:topic>Crematogaster auberti st. laevithorax</mods:topic>
+      <mods:topic>Crematogaster jehovae var. mosis</mods:topic>
+      <mods:topic>Crematogaster laestrygon var. granulata</mods:topic>
+      <mods:topic>Crematogaster scutellaris var. degener</mods:topic>
+      <mods:topic>Crematogaster (Acrocoelia) noualhieri</mods:topic>
+      <mods:topic>Crematogaster</mods:topic>
+      <mods:topic>Crematogaster sordidula</mods:topic>
+      <mods:topic>Crematogaster inermis</mods:topic>
+      <mods:topic>Crematogaster scutellaris var. corsica</mods:topic>
+      <mods:topic>Crematogaster scutellaris st. smidti var. algerica</mods:topic>
+      <mods:topic>Crematogaster jehovae</mods:topic>
+      <mods:topic>Crematogaster laestrygon st. maura</mods:topic>
+      <mods:topic>Crematogaster laestrygon st. theryi</mods:topic>
+      <mods:topic>Crematogaster lorteti var. helenica</mods:topic>
+      <mods:topic>Crematogaster phoenica var. crowleyi</mods:topic>
+      <mods:topic>Crematogaster (Acrocoelia) laestrygon var. atlantis</mods:topic>
+      <mods:topic>Crematogaster (Acrocoelia) alluaudi</mods:topic>
+      <mods:topic>Crematogaster (Acrocoelia) laestrygon var. submaura</mods:topic>
+      <mods:topic>Crematogaster alluaudi var. noualhieri</mods:topic>
+      <mods:topic>Crematogaster oasium</mods:topic>
+      <mods:topic>Crematogaster auberti var. iberica</mods:topic>
+      <mods:topic>Crematogaster laestrygon var. atlantis</mods:topic>
+      <mods:topic>Crematogaster phoenica</mods:topic>
+   </mods:subject>
+   <mods:identifier type="HNS-PUB">3578</mods:identifier>
+</mods:mods>

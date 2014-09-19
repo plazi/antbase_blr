@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+   <mods:titleInfo>
+      <mods:title>Formichi dei dintorni di Sambiase di Calabria.</mods:title>
+   </mods:titleInfo>
+   <mods:name type="personal">
+				  <mods:role>
+				     <mods:roleTerm>Author</mods:roleTerm>
+				  </mods:role>
+				  <mods:namePart>Minozzi, C.</mods:namePart>
+				</mods:name>
+   <mods:typeOfResource>text</mods:typeOfResource>
+   <mods:relatedItem type="host">
+      <mods:titleInfo>
+         <mods:title>Bollettino del Laboratorio di Zoologia Generale e Agraria della R. Scuola Superiore d'Agricultura</mods:title>
+      </mods:titleInfo>
+      <mods:part>
+         <mods:detail type="volume">
+            <mods:number>15</mods:number>
+         </mods:detail>
+         <mods:extent unit="page">
+            <mods:start>24</mods:start>
+            <mods:end>32</mods:end>
+         </mods:extent>
+         <mods:date>1921</mods:date>
+      </mods:part>
+   </mods:relatedItem>
+   <mods:subject>
+      <mods:topic>Sysphincta Mayri</mods:topic>
+      <mods:topic>Crematogaster scutellaris</mods:topic>
+      <mods:topic>Myrmecina graminicola</mods:topic>
+      <mods:topic>Leptothorax exilis</mods:topic>
+      <mods:topic>Leptothorax flavicornis</mods:topic>
+      <mods:topic>Tapinoma erraticum</mods:topic>
+      <mods:topic>Camponotus (Myrmoturba) pallens</mods:topic>
+      <mods:topic>Lasius (Chthenolasius) flavus</mods:topic>
+      <mods:topic>Messor barbarus subsp. structor</mods:topic>
+      <mods:topic>Liometopum microcephalum</mods:topic>
+      <mods:topic>Camponotus vagus</mods:topic>
+      <mods:topic>Camponotus (Colobopsis) truncatus</mods:topic>
+      <mods:topic>Lasius (Lasius) niger subsp. aliena</mods:topic>
+      <mods:topic>Ponera coarctata var. testacea</mods:topic>
+      <mods:topic>Aphaenogaster (Attomyrma) gibbosa subsp. strioloides var. italica</mods:topic>
+      <mods:topic>Messor barbarus subsp. barbarus var. capitata</mods:topic>
+      <mods:topic>Leptothorax angustulus</mods:topic>
+      <mods:topic>Tetramorium caespitum subsp. ferox var. diomedea</mods:topic>
+      <mods:topic>Dolichoderus (Hypoclinea) quadripunctatus</mods:topic>
+      <mods:topic>Camponotus (Myrmentoma) lateralis var. dalmatica</mods:topic>
+      <mods:topic>Chthenolasius</mods:topic>
+      <mods:topic>Ponera coarctata</mods:topic>
+      <mods:topic>Monomorium Pharaonis</mods:topic>
+      <mods:topic>Leptothorax Nylanderi var. Lichtensteini</mods:topic>
+      <mods:topic>Tetramorium caespitum subsp. semilaevis</mods:topic>
+      <mods:topic>Tetramorium meridionale</mods:topic>
+      <mods:topic>Plagiolepis pygmaea</mods:topic>
+      <mods:topic>Epimyrma Foreli</mods:topic>
+      <mods:topic>Ponera Eduardi</mods:topic>
+      <mods:topic>Aphaenogaster (Attomyrma) pallida</mods:topic>
+      <mods:topic>Aphaenogaster testaceo-pilosa subsp. semipolita</mods:topic>
+      <mods:topic>Aphaenogaster testaceo-pilosa subsp. semipolita var. inermis</mods:topic>
+      <mods:topic>Crematogaster scutellaris var. nigra</mods:topic>
+      <mods:topic>Leptothorax exilis var. leviceps</mods:topic>
+      <mods:topic>Tapinoma erraticum subsp. nigerrima</mods:topic>
+      <mods:topic>Camponotus (Myrmosericus) rufoglaucus subsp. micans</mods:topic>
+      <mods:topic>Formica (Serviformica) fusca subsp. glebaria</mods:topic>
+      <mods:topic>Stenamma Westwoodi</mods:topic>
+      <mods:topic>Aphaenogaster (Attomyrma) subterranea</mods:topic>
+      <mods:topic>Solenopsis fugax</mods:topic>
+      <mods:topic>Leptothorax tuberum subsp. unifasciata</mods:topic>
+      <mods:topic>Leptothorax Silvestrii</mods:topic>
+      <mods:topic>Strongylognathus Emeryi</mods:topic>
+      <mods:topic>Messor barbarus subsp. meridionalis</mods:topic>
+      <mods:topic>Messor barbarus subsp. meridionalis var. Wasmanni</mods:topic>
+      <mods:topic>Crematogaster sordidula</mods:topic>
+      <mods:topic>Leptothorax (Temnothorax) recedens</mods:topic>
+      <mods:topic>Camponotus (Myrmentoma) lateralis subsp. picea</mods:topic>
+      <mods:topic>Lasius (Lasius) emarginatus</mods:topic>
+      <mods:topic>Pheidole pallidula</mods:topic>
+      <mods:topic>Tetramorium caespitum</mods:topic>
+      <mods:topic>Camponotus (Myrmentoma) lateralis</mods:topic>
+   </mods:subject>
+   <mods:identifier type="HNS-PUB">4331</mods:identifier>
+</mods:mods>

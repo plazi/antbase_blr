@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+   <mods:titleInfo>
+      <mods:title>[The ants of Kirghizia (Hymenoptera, Formicidae).]</mods:title>
+   </mods:titleInfo>
+   <mods:name type="personal">
+				  <mods:role>
+				     <mods:roleTerm>Author</mods:roleTerm>
+				  </mods:role>
+				  <mods:namePart>Tarbinsky, Y. S.</mods:namePart>
+				</mods:name>
+   <mods:originInfo>
+      <mods:dateIssued>1976</mods:dateIssued>
+      <mods:publisher>Izdatel'stvo " ILIM"</mods:publisher>
+      <mods:place>
+         <mods:placeTerm type="text">Frunze</mods:placeTerm>
+      </mods:place>
+   </mods:originInfo>
+   <mods:subject>
+      <mods:topic>Leptothorax longipilosus</mods:topic>
+      <mods:topic>Leptothorax tuberum subsp. alaicus</mods:topic>
+      <mods:topic>Messor karawajevi</mods:topic>
+      <mods:topic>Camponotus tashcumiri</mods:topic>
+      <mods:topic>Leptothorax kirghizicus</mods:topic>
+      <mods:topic>Leptothorax tianschanicus</mods:topic>
+      <mods:topic>Cataglyphis aenescens subsp. chatkalensis</mods:topic>
+      <mods:topic>Leptothorax talassicus</mods:topic>
+      <mods:topic>Leptothorax narinicus</mods:topic>
+      <mods:topic>Myrmica saposhnikovi subsp. bergiana</mods:topic>
+      <mods:topic>Cataglyphis setipes subsp. dschambulica</mods:topic>
+      <mods:topic>Leptothorax arpini</mods:topic>
+      <mods:topic>Acantholepis frauenfeldi subsp. kassansai</mods:topic>
+   </mods:subject>
+   <mods:identifier type="HNS-PUB">8208</mods:identifier>
+</mods:mods>
